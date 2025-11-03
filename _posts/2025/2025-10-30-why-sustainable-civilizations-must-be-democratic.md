@@ -11,11 +11,11 @@ tags:
   - inequality
   - fairness
 ---
-*Originally published at [jmkorhonen.net](https://jmkorhonen.net/2025/10/30/why-sustainable-civilizations-must-be-democratic/)*.
-
 If civilization is to endure, it will not be ruled. It will have to rule itself.
 
 Due to my long-running interest in the parameters of sustainable civilizations, I’ve become convinced that although democracy by no means guarantees sustainability, **only democratic societies can be truly sustainable**. In this essay, I unpack that reasoning.
+
+*Originally published at [jmkorhonen.net](https://jmkorhonen.net/2025/10/30/why-sustainable-civilizations-must-be-democratic/)*.
 
 ## Why sustainable civilizations need limits
 
