@@ -13,7 +13,7 @@ My name is Janne and this is my GitHub public notebook and archive for things I�
 >
 >― Robert A. Heinlein, “Time Enough for Love”
 
-I Will be migrating my archives here at some point. Maybe.
+I will be migrating my archives here at some point. Maybe.
 
 For my blog in English, see [jmkorhonen.net](https://jmkorhonen.net/). 
 
