@@ -10,7 +10,7 @@ tags:
 - ABMs
 - index
 ---
-Main project page: [DYNAMO}(https://jmkorhonen.github.io/projects/DYNAMO/)
+Main project page: [DYNAMO](https://jmkorhonen.github.io/projects/DYNAMO/)
 
 ### Digital Twins
 
