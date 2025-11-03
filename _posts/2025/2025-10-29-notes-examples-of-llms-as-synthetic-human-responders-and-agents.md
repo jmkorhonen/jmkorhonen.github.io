@@ -9,6 +9,7 @@ tags:
 - research
 - notebooks
 ---
+This post discusses the use of large language models (LLMs) as synthetic human responders and agents in various research contexts. It includes examples of LLMs simulating human decision-making, generating personas, and their application in agent-based models.
 
 _Note: This is output from ChatGPT5 Plus’s Deep Research (light) mode, 25 SEP 2025. References have been checked and some light editing done by me – Janne M. Korhonen._ _I’m going to return to this topic later, but due to popular demand, chose to share the note as-is._
 
