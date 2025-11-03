@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+locale                   : "en-UK"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "jmkorhonen @ GitHub"
 title_separator          : "-"
 name                     : &name "Janne M. Korhonen"
