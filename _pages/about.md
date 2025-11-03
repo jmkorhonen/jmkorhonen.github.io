@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is my GitHub page. Will be containing my archives at some point. Maybe.
+My name is Janne and this is my GitHub public notebook and archive for things I’ve thought about at some point. I’ve been curious about many things over the years, and still believe that Robert A. Heinlein got something right here:
 
-For my bloggings in English, see [jmkorhonen.net](https://jmkorhonen.net/). 
+>“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.”
+>
+>― Robert A. Heinlein, “Time Enough for Love”
+
+I Will be migrating my archives here at some point. Maybe.
+
+For my blog in English, see [jmkorhonen.net](https://jmkorhonen.net/). 
 
 My Finnish blog is at [jmkorhonen.fi](https://jmkorhonen.fi/).
 
