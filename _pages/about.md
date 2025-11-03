@@ -13,6 +13,8 @@ My name is Janne and this is my GitHub public notebook and archive for things I�
 >
 >― Robert A. Heinlein, “Time Enough for Love”
 
+Right now the main thing here are the notes and examples for [Project DYNAMO](https://jmkorhonen.github.io/projects/DYNAMO/), my 2025-2028 job to develop agent-based and other modelling tools for Circular Economy transition and market research.
+
 I will be migrating my archives here at some point. Maybe.
 
 For my blog in English, see [jmkorhonen.net](https://jmkorhonen.net/). 
