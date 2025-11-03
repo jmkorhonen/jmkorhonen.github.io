@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Janne M. Korhonen's GitHub"
+title: "Janne M. Korhonen @ GitHub"
 author_profile: true
 redirect_from: 
   - /about/
