@@ -10,6 +10,9 @@ tags:
   - power
   - inequality
   - fairness
+  - economics
+  - environment
+  - polycrisis
 ---
 If civilization is to endure, it will not be ruled. It will have to rule itself.
 
