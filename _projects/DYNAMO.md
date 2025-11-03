@@ -8,7 +8,6 @@ DYNAMO (Dynamic Modelling of Circular Economy) is a modelling project I've been 
 
 # Materials
 
-## Notes & WIP @GitHub
 - [All DYNAMO notes @GitHub](https://github.com/jmkorhonen/jmkorhonen.github.io/tree/6185d1301abddfcaf6273f56b394d7b35e882ba8/_projects/2025/DYNAMO)
 
 
