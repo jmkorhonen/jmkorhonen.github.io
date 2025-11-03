@@ -14,7 +14,7 @@ tags:
 
 This document defines the **canonical format and conventions** for summarizing academic and policy research articles relevant to the DYNAMO project. It ensures all summaries are consistent, comparable, and directly usable in analysis.
 
-Version: 2025-09-17
+Version: 2025-09-17. [Up to date DYNAMO index is here](https://jmkorhonen.github.io/projects/DYNAMO/DYNAMO-index/).
 
 ---
 
