@@ -7,6 +7,8 @@ tags:
   - sustainability
   - future
   - politics
+  - inequality
+  - fairness
 ---
 *Originally published at [jmkorhonen.net](https://jmkorhonen.net/2025/10/30/why-sustainable-civilizations-must-be-democratic/)*
 
