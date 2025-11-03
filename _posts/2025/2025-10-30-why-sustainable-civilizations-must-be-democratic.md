@@ -8,7 +8,7 @@ tags:
   - future
   - politics
 ---
-*Originally published at [jmkorhonen.net](https://jmkorhonen.net/2025/10/30/why-sustainable-civilizations-must-be-democratic/)
+*Originally published at [jmkorhonen.net](https://jmkorhonen.net/2025/10/30/why-sustainable-civilizations-must-be-democratic/)*
 
 If civilization is to endure, it will not be ruled. It will have to rule itself.
 
