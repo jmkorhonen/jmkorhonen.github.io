@@ -7,6 +7,7 @@ tags:
   - sustainability
   - future
   - politics
+  - power
   - inequality
   - fairness
 ---
