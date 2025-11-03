@@ -54,8 +54,8 @@ author:
 
   # Social media
   # artstation       : # Username
-  Blog in English : "https://jmkorhonen.net/"
-  Blog in Finnish : "https://jmkorhonen.fi/"
+  blog :  "https://jmkorhonen.net/"
+  # Blog in Finnish : "https://jmkorhonen.fi/"
   bluesky          : "@jmkorhonen.fi" # Replace this with you Bluesky username
   # facebook         : # Username
   # flickr           : # Username
