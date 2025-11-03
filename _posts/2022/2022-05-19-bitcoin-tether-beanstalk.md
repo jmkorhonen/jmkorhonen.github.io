@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 4'
+title: 'On Bitcoin, Tether, and Beanstalk'
 date: 2022-05-19
 permalink: /posts/2022/2022-05-19-bitcoin-tether-beanstalk/
 tags:
