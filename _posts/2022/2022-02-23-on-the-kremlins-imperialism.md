@@ -1,5 +1,5 @@
 ---
-title: 'On the Kremlin's Imperialism'
+title: 'On the Kremlins Imperialism'
 date: 2022-02-23
 permalink: /posts/2022/2022-02-23-on-the-kremlins-imperialism/
 tags:
