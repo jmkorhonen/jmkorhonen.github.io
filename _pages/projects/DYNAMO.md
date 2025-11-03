@@ -20,7 +20,7 @@ DYNAMO (Dynamic Modelling of Circular Economy) is a modelling project I've been 
 
 Instruction files for LLM summaries @GitHub
 
-- [ODD Protocol 2020 instructions](https://github.com/jmkorhonen/jmkorhonen.github.io/blob/379fae220144a39d3ec9dabca2eebc707432bbda/_projects/2025/DYNAMO/ODD_Protocol_2020_2025-09-11.md)
+- [ODD Protocol 2020 instructions](https://jmkorhonen.github.io/projects/DYNAMO/ODD2020-protocol-2025-09-11/)
 - [Instructions for LLMs summarizing research articles according to ODD2020 protocol](https://jmkorhonen.github.io/projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17/)
 
 # LLMs as Digital Twins (Digi2n)
