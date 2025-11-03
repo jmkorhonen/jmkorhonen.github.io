@@ -9,7 +9,7 @@ DYNAMO (Dynamic Modelling of Circular Economy) is a modelling project I've been 
 
 # Materials
 
-- [All DYNAMO notes @GitHub](https://github.com/jmkorhonen/jmkorhonen.github.io/tree/6185d1301abddfcaf6273f56b394d7b35e882ba8/_projects/2025/DYNAMO)
+- [WIP DYNAMO notes @GitHub](https://github.com/jmkorhonen/jmkorhonen.github.io/tree/6185d1301abddfcaf6273f56b394d7b35e882ba8/_projects/2025/DYNAMO)
 
 # Literature review (WIP)
 
@@ -24,4 +24,4 @@ Instruction files for LLM summaries @GitHub
 
 # LLMs as Digital Twins (Digi2n)
 
-- [Short literature review, 29.10.2025](https://jmkorhonen.github.io/posts/2025/2025-10-29-notes-examples-of-llms-as-synthetic-human-responders-and-agents/)
+- [Examples of LLMs as Synthetic Human Responders and Agents (Short literature review published as a blog post, 29.10.2025)](https://jmkorhonen.github.io/posts/2025/2025-10-29-notes-examples-of-llms-as-synthetic-human-responders-and-agents/)
