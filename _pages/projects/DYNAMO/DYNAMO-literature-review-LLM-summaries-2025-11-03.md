@@ -1,7 +1,7 @@
 ---
 title: 'LLM summaries of research papers, WIP version 2025-11-03'
 date: 2025-11-03
-permalink: /projects/2025/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03/
+permalink: /projects/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03/
 tags:
 - LLMs
 - AI
