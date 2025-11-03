@@ -11,6 +11,7 @@ tags:
 ---
 
 DYNAMO (Dynamic Modelling of Circular Economy) is a modelling project I've been doing at [Syke](https://www.syke.fi/en) since 2025.
+![Up to date link index](https://jmkorhonen.github.io/projects/DYNAMO/DYNAMO-index/)
 
 # Literature review (WIP)
 
