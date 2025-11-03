@@ -13,11 +13,11 @@ tags:
 - reviews
 ---
 
-*This is a WIP of standardized LLM output summaries for [DYNAMO](https://github.com/jmkorhonen/jmkorhonen.github.io/blob/379fae220144a39d3ec9dabca2eebc707432bbda/_projects/DYNAMO.md) literature review.*
+*This is a WIP of standardized LLM output summaries for [DYNAMO](https://jmkorhonen.github.io/projects/DYNAMO/) literature review.*
 
 *See also:*
-- *[ODD 2020 reporting protocol guidelines, version 2025-09-11 @GitHub](https://github.com/jmkorhonen/jmkorhonen.github.io/blob/82268e0452959d59c7d163bee8f5f918b1057d4f/_projects/2025/DYNAMO/ODD_Protocol_2020_2025-09-11.md)*
-- *[DYNAMO LLM summarizing instructions, version 2025-09-17 @GitHub](https://github.com/jmkorhonen/jmkorhonen.github.io/blob/82268e0452959d59c7d163bee8f5f918b1057d4f/_projects/2025/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17.md)*
+- *[ODD Protocol 2020 instructions](https://github.com/jmkorhonen/jmkorhonen.github.io/blob/379fae220144a39d3ec9dabca2eebc707432bbda/_projects/2025/DYNAMO/ODD_Protocol_2020_2025-09-11.md)*
+- *[Instructions for LLMs summarizing research articles according to ODD2020 protocol](https://jmkorhonen.github.io/projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17/)*
 
 Version: 2025-11-03
 
