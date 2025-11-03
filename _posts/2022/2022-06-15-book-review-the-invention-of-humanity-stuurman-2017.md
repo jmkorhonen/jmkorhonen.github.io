@@ -1,7 +1,7 @@
 ---
 title: 'Book review: The Invention of Humanity (Stuurman 2017)'
 date: 2022-06-15
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2022/2022-06-15-book-review-the-invention-of-humanity-stuurman-2017/
 tags:
   - reviews
   - inequality
@@ -16,13 +16,16 @@ This is an important book that, in my opinion, ought to be read by everyone who 
 
 The book asks how people came to see others as fellow human beings, or even as equals. Its narrative weaves through the history of how the deeply ingrained ethnocentrism was surmounted, and how the vision of all humans being basically alike was arrived at.
 
-The theoretical framework of the book relies on two ways to question cultural difference: 1), the notion of “common humanity”, which Stuurman argues transforms the stranger into a fellow human being, and which he proposes to define as “culturally significant similarity:” all human beings share one or more attributes, origins, obligations, faculties, or potentialities. How this could begin, in Stuurman’s view:
+The theoretical framework of the book relies on two ways to question cultural difference: 
+
+1), the notion of “common humanity”, which Stuurman argues transforms the stranger into a fellow human being, and which he proposes to define as “culturally significant similarity:” all human beings share one or more attributes, origins, obligations, faculties, or potentialities. 
+2), the “anthropological turn,” which invites us to see through the eyes of others and deconstructs the semantics of the familiar and the alien.
+
+How this could begin, in Stuurman’s view:
 
 > “An incipient notion of common humanity became thinkable when humans began to demarcate themselves from animals, imagining a hierarchy of sentient beings with humans at the apex of the pyramid. By enumerating the attributes that distinguished humans from animals, such as speech, morality and reason, they summed up the faculties all human beings were supposed to share.”
 
 (Note that studies in comparative or evolutionary cognition strongly suggest that this hierarchy, modeled after Aristotle’s “scala naturae”, is largely an artifact of human insecurities – see e.g. the works of Frans de Waal – and in itself a hierarchy is problematic because it always implies some are less valuable than others.)
-
-and 2), the “anthropological turn,” which invites us to see through the eyes of others and deconstructs the semantics of the familiar and the alien.
 
 Stuurman traces the development of the notion of common humanity starting from the “Axial Age” and the great religious and philosophical texts of antiquity, including Stoicism and Confucianism (Chapter 2). Chapter 3 discusses how the early historians of the Axial Age, namely Herodotus, Sima Qian, and Publius Cornelius Tacitus discuss their respective empires and their “barbarian others.”
 
@@ -52,4 +55,4 @@ In the long run, equality simply makes more sense than inequality. To quote:
 > 
 > The history of the other component of equality discourses, the anthropological turn, further impairs the “realism” of the inequality discourses. We have seen that even under conditions of extreme inequality, as in the sixteenth-century European conquest of America, the doctrines of inequality were fiercely contested. Besides references to common humanity, the inversion of the gaze had a powerful equality effect. Bartolomé de Las Casas invited his audience to realize that the Native Americans’ belief in their gods was as deep and sincere as the Christian belief in the Trinity. Michel de Montaigne advised the Europeans to take a good hard look at their own religious wars before triumphantly celebrating their superiority over the benighted cannibals. Two thousand years before, Herodotus made the lapidary remark that the Egyptians called all speakers of foreign tongues “barbarians.” A couple of centuries later Sima Qian demonstrated that the Chinese condemnation of the customs of the northern nomads was paralleled by an equally critical view of China on the part of the nomads. As every frontier is two-sided, all cultural hierarchies are susceptible to inversion. Given the changeability of cultural boundaries and the ever-varying classifications of humanity in the history of inequality thinking, the conclusion follows that hierarchical judgments of one culture about another are always historically contingent. Ultimately, then, common humanity represents the Archimedean point of the moral history of humanity.”
 
-*Originally published at [jmkorhonen.net](https://jmkorhonen.net/2022/06/15/15-6-22-book-review-the-invention-of-humanity-stuurman-2017/).
+*Originally published at [jmkorhonen.net](https://jmkorhonen.net/2022/06/15/15-6-22-book-review-the-invention-of-humanity-stuurman-2017/).*
