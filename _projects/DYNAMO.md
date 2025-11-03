@@ -6,4 +6,9 @@ collection: projects
 
 DYNAMO (Dynamic Modelling of Circular Economy) is a modelling project I've been doing at [Syke](https://www.syke.fi/en) since 2025.
 
+# Materials
 
+## Instruction files for LLM summaries
+
+- [ODD Protocol 2020 instructions, version 2025-09-11](https://github.com/jmkorhonen/jmkorhonen.github.io/blob/379fae220144a39d3ec9dabca2eebc707432bbda/_projects/2025/DYNAMO/ODD_Protocol_2020_2025-09-11.md)
+- [Instructions for LLMs summarizing research articles according to ODD2020 protocol, version 2025-09-17](https://github.com/jmkorhonen/jmkorhonen.github.io/blob/1883142687b72f7e61b62541586be05ed7bd962c/_projects/2025/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17.md) 
