@@ -1,13 +1,14 @@
 ---
 title: 'DYNAMO Literature Review: Summarizing instructions for LLMs, version 2025-09-17'
 date: 2025-09-17
-permalink: /projects/2025/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17/
+permalink: /projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17/
 tags:
 - LLMs
 - AI
 - DYNAMO
 - projects
 - research
+- reviews
 ---
 # DYNAMO Literature Review Summarizing Instructions
 
