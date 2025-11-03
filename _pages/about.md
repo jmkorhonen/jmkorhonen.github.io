@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Janne M. Korhonen @ GitHub
-======
 This is my GitHub page. Will be containing my archives at some point. Maybe.
 
 
