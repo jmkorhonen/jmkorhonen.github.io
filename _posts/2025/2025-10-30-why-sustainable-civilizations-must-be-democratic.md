@@ -3,16 +3,16 @@ title: 'Why Sustainable Societies Must Be Democratic'
 date: 2025-10-30
 permalink: /posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic/
 tags:
-  - democracy
-  - sustainability
-  - future
-  - politics
-  - power
-  - inequality
-  - economics
-  - environment
-  - polycrisis
-  - philosophy
+  - Democracy
+  - Sustainability
+  - Future
+  - Politics
+  - Power
+  - Inequality
+  - Economics
+  - Environment
+  - Polycrisis
+  - Philosophy
 ---
 If civilization is to endure, it will not be ruled. It will have to rule itself.
 
