@@ -3,13 +3,13 @@ title: 'On the Kremlins Imperialism'
 date: 2022-02-23
 permalink: /posts/2022/2022-02-23-on-the-kremlins-imperialism/
 tags:
-- politics
-- imperialism
+- Politics
+- Imperialism
 - Russia
 - Ukraine
-- war
-- defence
-- philosophy
+- War
+- Defence
+- Philosophy
 - Nordics
 - Finland
 ---
