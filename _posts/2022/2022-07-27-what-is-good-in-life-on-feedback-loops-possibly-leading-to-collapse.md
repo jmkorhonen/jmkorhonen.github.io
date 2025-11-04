@@ -3,13 +3,13 @@ title: 'What is Good in Life? On feedback loops possibly leading to a collapse'
 date: 2022-07-27
 permalink: /posts/2022/2022-07-27-what-is-good-in-life-on-feedback-loops-possibly-leading-to-collapse/
 tags:
-- collapse
-- philosophy
-- sustainability
-- x-risks
-- environment
-- polycrisis
-- limits
+- Collapse
+- Philosophy
+- Sustainability
+- Existential risks
+- Environment
+- Polycrisis
+- Limits
 ---
 In early 2002, I had an epiphany. I had been depressed for months and queried whether there is even any point in living any more: in the long run, we are all dead, and whatever we achieve will crumble in the sands of time. In a century, barely anyone will even know that you ever existed.
 
