@@ -3,10 +3,10 @@ title: 'On extinction risk, commons risk, and "natural" disasters'
 date: 2022-05-22
 permalink: /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disasters/
 tags:
-- x-risks
-- collapse
-- notebooks
-- research
+- Existential risks
+- Collapse
+- Notebooks
+- Research
 ---
 
 Extinction risks or X-risks are an interesting research topic that, however, has its own share of problems. I have one article in the works about some of its blind spots, and will be getting back to the topic later. Meanwhile, here’s something on classifying extinction risks, based on the following paper:
