@@ -3,9 +3,9 @@ title: 'A Very Short and Fairly Understandable Introduction to Models'
 date: 2020-06-29
 permalink: /posts/2020/2020-06-29-a-very-short-and-fairly-understandable-introduction-to-models/
 tags:
-- modelling
-- research
-- philosophy
+- Modelling
+- Research
+- Philosophy
 ---
 
 At […and Then There’s Physics](https://andthentheresphysics.wordpress.com/2020/06/27/a-modelling-manifesto/) , there was a post about the recent Nature comment on a “modelling manifesto”, [“Five ways to ensure that models serve society”.](https://andthentheresphysics.wordpress.com/2020/06/27/a-modelling-manifesto/)
