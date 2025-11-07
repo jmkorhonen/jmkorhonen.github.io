@@ -6,6 +6,11 @@ author_profile: true
 ---
 Some Excel files and models I've done over the years, in Finnish and in English. Feel free to reuse and adapt. I take no responsibility for the results though :).
 
+### LCOE and Learning Curve Calculator
+For calculating Levelized Cost of Electricity (LCOE) and learning curves of multiple power plants at once.
+
+[OneDrive link](https://1drv.ms/x/c/6211aaa9a49964d4/EdRkmaSpqhEggGJiCwAAAAABpR7BtKqMZzmtOaQKGUIcpw?e=h7Ma3m)
+
 ## In Finnish
 
 ### Liikkumisen kustannukset-laskuri (sähköautolaskuri)
