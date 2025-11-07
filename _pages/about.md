@@ -15,7 +15,9 @@ My name is Janne and this is my GitHub public notebook and archive for things Iâ
 
 Right now the main thing here are the notes and examples for [Project DYNAMO](https://jmkorhonen.github.io/projects/DYNAMO/), my 2025-2028 job to develop agent-based and other modelling tools for Circular Economy transition and market research.
 
-I will be migrating my archives here at some point. Maybe.
+For other stuff, see [Projects](https://jmkorhonen.github.io/projects/).
+
+I will be migrating my archives here, mostly at [Blog posts](https://jmkorhonen.github.io/year-archive/), at some point. Maybe.
 
 For my blog in English, see [jmkorhonen.net](https://jmkorhonen.net/). 
 
