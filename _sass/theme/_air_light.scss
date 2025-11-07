@@ -3,10 +3,17 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
+$primary-color              : #5b92e5;
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#000, $primary-color, 50%);
+
+/* DEFAULT Color codes used for the theme 
 $primary-color              : #0092ca;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
+*/
 
 /* Background color (#dee9fa) is 80% lighter version of United Nations blue, #5b92e5 ;
 other possibilities are 70 % (#cedef7), 60% (#bdd3f5) and 50% (#adc9f2). 
