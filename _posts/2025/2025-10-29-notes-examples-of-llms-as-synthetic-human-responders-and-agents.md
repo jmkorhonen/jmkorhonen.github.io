@@ -7,10 +7,11 @@ tags:
 - LLMs
 - AI
 - Research
-- Notebooks
 - DYNAMO
 - Modelling
 - ABMs
+- Articles
+- Notes
 ---
 This post discusses the use of large language models (LLMs) as synthetic human responders and agents in various research contexts. It includes examples of LLMs simulating human decision-making, generating personas, and their application in agent-based models.
 
