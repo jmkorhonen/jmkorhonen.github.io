@@ -1,0 +1,23 @@
+---
+layout: archive
+permalink: /essays/
+title: "Essays, blog posts, & other longer reads"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+Longer reads, such as essays, blog posts, articles, etc. Newest first.
+For short notes, see Notes; for everything in reverse chronological order, see Essays.
+{% include base_path %}
+
+{% assign blog_posts = site.posts | where_exp: "p", "p.tags contains 'Articles'" %}
+{% assign written_year = 'None' %}
+
+{% for post in blog_posts %}
+  {% assign year = post.date | date: '%Y' %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% assign written_year = year %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
