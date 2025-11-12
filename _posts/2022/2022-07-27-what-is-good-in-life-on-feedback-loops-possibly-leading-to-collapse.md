@@ -2,6 +2,8 @@
 title: 'What is Good in Life? On feedback loops possibly leading to a collapse'
 date: 2022-07-27
 permalink: /posts/2022/2022-07-27-what-is-good-in-life-on-feedback-loops-possibly-leading-to-collapse/
+categories:
+- Articles
 tags:
 - Collapse
 - Philosophy
