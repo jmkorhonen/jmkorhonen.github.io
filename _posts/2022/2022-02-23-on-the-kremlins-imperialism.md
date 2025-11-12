@@ -2,6 +2,9 @@
 title: 'On the Kremlins Imperialism'
 date: 2022-02-23
 permalink: /posts/2022/2022-02-23-on-the-kremlins-imperialism/
+categories:
+- Articles
+- Archive, Twitter
 tags:
 - Politics
 - Imperialism
@@ -12,7 +15,6 @@ tags:
 - Philosophy
 - Nordics
 - Finland
-- Articles
 ---
 
 Greetings from a Finnish leftist! The international situation has apparently left many people in the English-speaking countries confused. I originally wrote [this thread in Twitter](https://twitter.com/jmkorhonen/status/1496047631969234944?s=20&t=8tJNrzJHMcQHyeEoXMdckQ) in the hopes of sharing a perspective I believe is widely although certainly not universally shared in Finland, most leftists included. This is a slightly edited version, for clarity.
