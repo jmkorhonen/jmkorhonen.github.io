@@ -10,6 +10,7 @@ tags:
 - Research
 - World War II
 - Existential risks
+- Articles
 ---
 Our society and, indeed, our way of life is facing an existential threat. The situation is grim, but not hopeless.
 
