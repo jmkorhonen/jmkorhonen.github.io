@@ -10,6 +10,7 @@ tags:
 - Environment
 - Polycrisis
 - Limits
+- Articles
 ---
 In early 2002, I had an epiphany. I had been depressed for months and queried whether there is even any point in living any more: in the long run, we are all dead, and whatever we achieve will crumble in the sands of time. In a century, barely anyone will even know that you ever existed.
 
