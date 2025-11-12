@@ -8,7 +8,7 @@ tags:
 - Innovation
 - History of Technology
 - Creativity
-- Article
+- Articles
 ---
 _The following is the traditional_ Lectio praecursoria _a doctoral candidate in Finland gives to the audience before his/her PhD defence. This one is mine, delivered on 12th December 2017._
 
