@@ -2,6 +2,8 @@
 title: "What if we really tried to save our civilization? An introduction to Plan B"
 date: 2020-01-09
 permalink: /posts/2020/2020-01-09-What-if-we-really-tried-to-save-our-civilization/
+categories:
+- Articles
 tags:
 - Climate change
 - Environment
@@ -10,7 +12,6 @@ tags:
 - Research
 - World War II
 - Existential risks
-- Articles
 ---
 Our society and, indeed, our way of life is facing an existential threat. The situation is grim, but not hopeless.
 
