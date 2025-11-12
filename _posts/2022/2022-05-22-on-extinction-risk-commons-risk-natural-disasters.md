@@ -2,10 +2,11 @@
 title: 'On extinction risk, commons risk, and "natural" disasters'
 date: 2022-05-22
 permalink: /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disasters/
+categories:
+- Notes
 tags:
 - Existential risks
 - Collapse
-- Notes
 - Research
 ---
 
