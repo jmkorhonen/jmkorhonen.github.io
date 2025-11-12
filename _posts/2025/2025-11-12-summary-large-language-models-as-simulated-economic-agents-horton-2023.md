@@ -4,7 +4,7 @@ date: 2025-11-12
 permalink: /posts/2025/2025-11-12-summary-large-language-models-as-simulated-economic-agents-horton-2023/
 tags:
 - Research
-- Review
+- Summaries
 - AI
 - LLMs
 - Technology
