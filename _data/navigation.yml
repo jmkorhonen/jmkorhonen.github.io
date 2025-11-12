@@ -10,6 +10,12 @@
 main:
   - title: "Projects"
     url: /projects/
+
+  - title: "Essays"
+    url: /essays/
+
+  - title: "Notes"
+    url: /notes/
     
   #- title: "Publications"
   #  url: /publications/
@@ -23,7 +29,7 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "EVERYTHING"
     url: /year-archive/
     
   #- title: "CV"
