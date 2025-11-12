@@ -2,6 +2,8 @@
 title: 'Notes: Examples of LLMs as Synthetic Human Responders and Agents'
 date: 2025-10-29
 permalink: /posts/2025/2025-10-29-notes-examples-of-llms-as-synthetic-human-responders-and-agents/
+categories:
+- Notebooks
 tags:
 - Projects
 - LLMs
