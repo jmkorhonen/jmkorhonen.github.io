@@ -36,7 +36,7 @@ Horton anticipates and rebuts several objections:
 - **“Performativity.”** Ironically, one of the most common arguments against LLMs - that they hallucinate or confabulate responses - *also* means that LLMs are not simply regurgitating something they have already "read" in their training corpus. LLMs might still parrot existing theory because they’ve read it, but Horton notes that they often fail to recall exact results or apply them correctly. Avoiding textbook framings can further reduce this bias.
 - **“N = 1 problem.”**  While there’s only one underlying model, different “personas” can be created via prompts or fine-tuning, akin to giving experimental subjects different information cards. Random sampling (e.g. by model temperature) produces stochastic variation.
 
-#### Experiments
+## Experiments
 To illustrate the possibilities, Horton re-runs four classical behavioural economics experiments with ChatGPT's GPT-3.
 
 - **Dictator games (Charness & Rabin 2002):** LLMs reproduce predictable shifts when “endowed” with self-interested, fairness-oriented, or efficiency-oriented motives.
@@ -67,10 +67,10 @@ In a simulated hiring choice between workers differing in wage and experience, i
 **Overall pattern**  
 Across all cases, GPT-3 reproduced the **qualitative direction** of human behavioural results: fairness concerns, political framing effects, status-quo bias, and substitution under constraint. Quantitatively, it is not identical to human data, but its responses are coherent, interpretable, and responsive to conditioning. Horton concludes that this supports using LLMs as **experimental sandboxes** for generating and refining hypotheses before empirical testing.
 
-#### Abstract ([Arxiv](https://arxiv.org/abs/2301.07543))
+## Abstract ([Arxiv](https://arxiv.org/abs/2301.07543))
 >Newly-developed large language models (LLM) -- because of how they are trained and designed -- are implicit computational models of humans -- a homo silicus. These models can be used the same way economists use homo economicus: they can be given endowments, information, preferences, and so on and then their behavior can be explored in scenarios via simulation. I demonstrate this approach using OpenAI's GPT3 with experiments derived from Charness and Rabin (2002), Kahneman, Knetsch and Thaler (1986) and Samuelson and Zeckhauser (1988). The findings are qualitatively similar to the original results, but it is also trivially easy to try variations that offer fresh insights. Departing from the traditional laboratory paradigm, I also create a hiring scenario where an employer faces applicants that differ in experience and wage ask and then analyze how a minimum wage affects realized wages and the extent of labor-labor substitution.
 
-#### References cited
+## References cited
 Aher, G., Arriaga, R. I., & Kalai, A. T. (2023). _Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies_ (No. arXiv:2208.10264). arXiv. [https://doi.org/10.48550/arXiv.2208.10264](https://doi.org/10.48550/arXiv.2208.10264)
 
 Charness, G., & Rabin, M. (2002). Understanding Social Preferences with Simple Tests. _The Quarterly Journal of Economics_, _117_(3), 817–869. [https://doi.org/10.1162/003355302760193904](https://doi.org/10.1162/003355302760193904)
