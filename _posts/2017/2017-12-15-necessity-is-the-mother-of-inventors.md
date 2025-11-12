@@ -2,13 +2,14 @@
 title: 'Necessity is the mother of inventors (my PhD lecture)'
 date: 2017-12-15 
 permalink: /posts/2017/2017-12-15-necessity-is-the-mother-of-inventors/
+categories:
+- Articles
 tags:
 - Research
 - Scarcities
 - Innovation
 - History of Technology
 - Creativity
-- Articles
 ---
 _The following is the traditional_ Lectio praecursoria _a doctoral candidate in Finland gives to the audience before his/her PhD defence. This one is mine, delivered on 12th December 2017._
 
