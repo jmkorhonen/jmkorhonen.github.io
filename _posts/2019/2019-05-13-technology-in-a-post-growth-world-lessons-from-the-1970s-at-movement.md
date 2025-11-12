@@ -14,6 +14,7 @@ tags:
 - Decoupling
 - History
 - History of Technology
+- Article
 ---
 Hello again! This post about lessons we could learn from the 1970s Appropriate/Alternative Technology movement is derived from a presentation I gave at Helsinki Sustainability Science Days 2019, 9.5.2019. The entire presentation [can be found here.](https://docs.google.com/presentation/d/1D1B-fynBkK77gJCiikfeXYGpRxyJinWKYudHjdMJ7QQ/edit?usp=sharing)
 
