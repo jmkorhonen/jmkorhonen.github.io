@@ -2,6 +2,8 @@
 title: 'Book review: McAfee (2019), More from Less'
 date: 2019-11-15
 permalink: /posts/2019/2019-11-15-book-review-mcafee-more-from-less/
+categories:
+- Articles
 tags:
 - Politics
 - Economy
@@ -13,7 +15,6 @@ tags:
 - Technology
 - Decoupling
 - Reviews
-- Articles
 ---
 
 This is an interesting book which could be a good book if its key message – that technology and capitalism will decouple economic growth from resource use _in time to prevent serious ecological disruption –_ were supported by research. This, unfortunately, is not the case.
