@@ -2,12 +2,13 @@
 title: 'On Bitcoin, Tether, and Beanstalk'
 date: 2022-05-19
 permalink: /posts/2022/2022-05-19-bitcoin-tether-beanstalk/
+categories:
+- Notes
 tags:
 - Technology
 - Bitcoin
 - Cryptocurrencies
 - Energy
-- Notes
 ---
 [Jessica McKenzie wrote in Twitter](https://twitter.com/jessimckenzi/status/1526573090196574214) about the less known trend in Bitcoin mining. Bitcoin miners and fossil fuel firms, which increasingly tend to be the one and the same thing, are buying gas-fired generators and use them right next to gas wellheads. End result: to solve the crypto sudokus, fossil gas that would otherwise not be extracted and burned, is extracted and burned.
 
