@@ -59,7 +59,7 @@ Necessity is the mother of inventors, not of inventions.
 
 _Download my PhD thesis,_ [Constructed Solutions to Constructed Constraints, here.](https://jmkorhonen.files.wordpress.com/2017/12/260144-1_aalto_dd_2017_238_korhonen_vedos.pdf "260144-1_Aalto_DD_2017_238_Korhonen_vedos")
 
-**Footnotes and references**
+## Footnotes and references
 
 1. See e.g. Rosso, B. D. (2014). Creativity and Constraints: Exploring the Role of Constraints in the Creative Processes of Research and Development Teams. Organization Studies; Joyce, C. K. (2009). _The blank page: Effects of constraint on creativity._; Moreau, C. P., & Dahl, D. W. (2005). Designing the solution: the impact of constraints on consumers’ creativity; Goldenberg, J., Lehmann, D. R., & Mazursky, D. (2001). The idea itself and the circumstances of its emergence as predictors of new product success.
 2. Weiss, M., Hoegl, M., & Gibbert, M. (2013). The Influence of Material Resources on Innovation Project Outcomes; Hoegl, M., Gibbert, M., & Mazursky, D. (2008). Financial constraints in innovation projects: When is less more?
