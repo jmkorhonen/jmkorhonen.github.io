@@ -5,7 +5,7 @@ permalink: /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disast
 tags:
 - Existential risks
 - Collapse
-- Notebooks
+- Notes
 - Research
 ---
 
