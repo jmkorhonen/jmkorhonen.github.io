@@ -13,6 +13,7 @@ tags:
   - Environment
   - Polycrisis
   - Philosophy
+  - Articles
 ---
 If civilization is to endure, it will not be ruled. It will have to rule itself.
 
