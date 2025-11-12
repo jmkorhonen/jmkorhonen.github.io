@@ -80,3 +80,7 @@ Horton, J. J. (2023). _Large Language Models as Simulated Economic Agents: What 
 Kahneman, D., Knetsch, J. L., & Thaler, R. (1986). Fairness as a Constraint on Profit Seeking: Entitlements in the Market. _The American Economic Review_, _76_(4), 728–741.
 
 Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. _Journal of Risk and Uncertainty_, _1_(1), 7–59. [https://doi.org/10.1007/BF00055564](https://doi.org/10.1007/BF00055564)
+
+Part of project [DYNAMO (Dynamic Modelling of Circular Economy)](https://jmkorhonen.github.io/projects/DYNAMO/)
+
+See also [Notes - Examples of LLMs as Synthetic Human Responders and Agents](https://jmkorhonen.github.io/posts/2025/2025-10-29-notes-examples-of-llms-as-synthetic-human-responders-and-agents/)
