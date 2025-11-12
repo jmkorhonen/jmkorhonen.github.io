@@ -7,6 +7,8 @@ tags:
   - Inequality
   - History
   - Philosophy
+  - Articles
+  - Notes
 ---
 My review of Stuurman, Siep (2017). *The invention of humanity: Equality and cultural difference in world history.* Harvard University Press.
 
