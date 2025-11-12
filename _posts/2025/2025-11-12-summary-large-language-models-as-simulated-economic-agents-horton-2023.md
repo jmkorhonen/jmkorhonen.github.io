@@ -2,6 +2,8 @@
 title: "Summary: Large Language Models as Simulated Economic Agents (Horton 2023)"
 date: 2025-11-12
 permalink: /posts/2025/2025-11-12-summary-large-language-models-as-simulated-economic-agents-horton-2023/
+categories:
+- Notes
 tags:
 - Research
 - Summaries
