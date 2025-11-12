@@ -2,13 +2,14 @@
 title: 'Book review: The Invention of Humanity (Stuurman 2017)'
 date: 2022-06-15
 permalink: /posts/2022/2022-06-15-book-review-the-invention-of-humanity-stuurman-2017/
+categories:
+- Articles
+- Notes
 tags:
   - Reviews
   - Inequality
   - History
   - Philosophy
-  - Articles
-  - Notes
 ---
 My review of Stuurman, Siep (2017). *The invention of humanity: Equality and cultural difference in world history.* Harvard University Press.
 
