@@ -13,7 +13,7 @@ tags:
 - Technology
 - Decoupling
 - Reviews
-- Article
+- Articles
 ---
 
 This is an interesting book which could be a good book if its key message – that technology and capitalism will decouple economic growth from resource use _in time to prevent serious ecological disruption –_ were supported by research. This, unfortunately, is not the case.
