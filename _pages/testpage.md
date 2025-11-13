@@ -14,6 +14,8 @@ modified: 2025-11-13 Thu 15:16
 
 Let's test how to push things to and fro Obsidian.
 
+Commented out visual indent
+
 ToC nesting should work now, added to `_custom.scss`
 
 added author_profile: true and toc_sticky: false

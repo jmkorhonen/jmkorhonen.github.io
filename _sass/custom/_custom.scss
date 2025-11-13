@@ -52,12 +52,13 @@
   opacity: 0.85;
 }
 
-/* Visual indent for nested lists */
+/* Visual indent for nested lists  - COMMENTED OUT
 .sidebar__right .toc #toc-list ul {
   border-left: 2px solid rgba(0,0,0,0.1);
   margin-left: 0.6rem;
   padding-left: 0.6rem;
 }
+*/
 
 /* Dark theme tweak */
 [data-theme="dark"] .sidebar__right .toc ul ul {
