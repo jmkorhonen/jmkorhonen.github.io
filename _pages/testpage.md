@@ -20,7 +20,7 @@ and new date format
 
 added lines to main.scss
 
-added to `_custom.scss`:
+added to `_custom.scss`: (now commented out for testing)
 
 ```css
 /* ToC heading colour override */

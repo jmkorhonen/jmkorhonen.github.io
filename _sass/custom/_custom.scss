@@ -8,6 +8,30 @@
   color: #eee !important;
 }
 
-/* ToC heading colour override */
+/* ToC heading colour override - COMMENTED OUT FOR TESTING 
 .toc .nav__title { color: #222 !important; }
 [data-theme="dark"] .toc .nav__title { color: #eee !important; }
+*/
+
+/* Base ToC styling (light theme) */
+.sidebar__right .toc {
+  background: #f7f7f7;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+.sidebar__right .toc a { color: #222; }
+.sidebar__right .toc a:hover { text-decoration: underline; }
+
+/* Dark theme override */
+[data-theme="dark"] .sidebar__right .toc {
+  background: #1e1e1e;
+  border-color: #333;
+}
+[data-theme="dark"] .sidebar__right .toc .nav__title { color: #eee !important; }
+[data-theme="dark"] .sidebar__right .toc a { color: #ddd; }
+[data-theme="dark"] .sidebar__right .toc a:hover { color: #fff; }
+
+/* Optional readability tweaks */
+.sidebar__right .toc .toc__list { margin: 0; }
+.sidebar__right.sticky { top: 2rem; }
