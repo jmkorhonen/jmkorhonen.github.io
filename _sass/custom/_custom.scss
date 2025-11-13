@@ -1,3 +1,24 @@
+/* Right-rail ToC that floats beside content */
+.page__inner-wrap {
+  display: flow-root; /* establish a new block formatting context for floats */
+}
+
+.sidebar__right {
+  float: right;
+  width: 18rem;
+  margin: 0 0 1rem 1.5rem;
+  position: sticky;
+  top: 2rem;          /* adjust if your masthead is taller */
+  align-self: flex-start;
+}
+
+.page__content { overflow: visible; }
+
+/* Collapse to inline on narrow screens */
+@media (max-width: 900px) {
+  .sidebar__right { float: none; width: auto; position: static; margin: 0 0 1rem 0; }
+}
+
 /* Improve visibility of the ToC heading */
 .nav__title {
   color: #222 !important;   /* darker for light theme */

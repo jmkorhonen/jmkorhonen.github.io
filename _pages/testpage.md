@@ -10,12 +10,14 @@ toc_label: Contents
 toc_icon: list
 published: true
 sidebar.nav: true
-modified: 2025-11-13 Thu 15:16
+modified: 2025-11-13 Thu 16:14
 ---
 
 Let's test how to push things to and fro Obsidian.
 
-Added once again sidebar.nav: true
+Added Right-rail ToC that floats beside content to single.html
+
+Removed once again sidebar.nav: true
 
 Changed single.html
 
