@@ -18,7 +18,7 @@ For long-form posts, see <a href="https://jmkorhonen.github.io/essays/">Essays</
 {% for post in notes %}
   {% assign year = post.date | date: '%Y' %}
   {% if year != written_year %}
-## {{ year }}
+# {{ year }}
     {% assign written_year = year %}
   {% endif %}
   {% include archive-single.html %}

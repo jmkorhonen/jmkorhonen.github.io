@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "_pages/test_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testpage"
+              "title": "Backlinks for test_notes"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "_pages/test_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from testpage"
+              "title": "Outgoing links from test_notes"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "_pages/test_notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testpage"
+              "title": "Outline of test_notes"
             }
           }
         ]
@@ -226,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f081e26489a12fb",
+  "active": "40b29707ddbf8121",
   "lastOpenFiles": [
+    "_pages/testpage.md",
     "_pages/test_notes.md",
     "_pages/404.md",
     "assets/templates/Talks_template.md",
@@ -236,7 +237,6 @@
     "assets/templates/Paper_template.md",
     "assets/templates/Page_template.md",
     "_pages/sitemap.md",
-    "_pages/testpage.md",
     "_teaching/2015-spring-teaching-2.md",
     "_teaching/2014-spring-teaching-1.md",
     "_talks/2013-03-01-tutorial-1.md",
