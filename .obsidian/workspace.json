@@ -4,24 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "644e6c9ce7a0840a",
-        "type": "tabs",
+        "id": "2e9c7d627b5973ac",
+        "type": "split",
         "children": [
           {
-            "id": "fa016afe53256387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
-                "mode": "source",
-                "source": false
+            "id": "644e6c9ce7a0840a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa016afe53256387",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "assets/templates/Post_template.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Post_template"
+                }
               },
-              "icon": "lucide-file",
-              "title": "2017-12-15-necessity-is-the-mother-of-inventors"
-            }
+              {
+                "id": "81fd5227c071c7dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "assets/templates/Portfolio_template.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Portfolio_template"
+                }
+              },
+              {
+                "id": "40b29707ddbf8121",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "markdown_generator/readme.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "readme"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "fd4f14b19c6a42e1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f081e26489a12fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_pages/testpage.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "testpage"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+                "file": "markdown_generator/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2017-12-15-necessity-is-the-mother-of-inventors"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -113,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+                "file": "markdown_generator/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2017-12-15-necessity-is-the-mother-of-inventors"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -142,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+                "file": "markdown_generator/readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2017-12-15-necessity-is-the-mother-of-inventors"
+              "title": "Outline of readme"
             }
           }
         ]
@@ -170,13 +226,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa016afe53256387",
+  "active": "40b29707ddbf8121",
   "lastOpenFiles": [
+    "_pages/testpage.md",
+    "markdown_generator/readme.md",
+    "assets/templates/Talks_template.md",
+    "assets/templates/Paper_template.md",
+    "assets/templates/Page_template.md",
+    "assets/templates/Portfolio_template.md",
     "assets/templates/Post_template.md",
-    "_pages/sitemap.md",
-    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
-    "assets/templates",
+    "_talks/2012-03-01-talk-1.md",
+    "_portfolio/portfolio-1.md",
+    "files/publications/paper1.pdf",
+    "files/presentations/slides1.pdf",
+    "files/publications",
+    "files/presentations",
+    "_publications/2009-10-01-paper-title-number-1.md",
     "_pages/Excel.md",
+    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+    "_pages/sitemap.md",
+    "assets/templates",
     "_pages/terms.md"
   ]
 }
