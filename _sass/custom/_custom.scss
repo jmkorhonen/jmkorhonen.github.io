@@ -8,10 +8,6 @@
   color: #eee !important;
 }
 
-/* ToC heading colour override - COMMENTED OUT FOR TESTING 
-.toc .nav__title { color: #222 !important; }
-[data-theme="dark"] .toc .nav__title { color: #eee !important; }
-*/
 
 /* Base ToC styling (light theme) */
 .sidebar__right .toc {
@@ -35,3 +31,35 @@
 /* Optional readability tweaks */
 .sidebar__right .toc .toc__list { margin: 0; }
 .sidebar__right.sticky { top: 2rem; }
+
+
+
+/* --- ToC visual hierarchy --- */
+
+/* H2-level links */
+.sidebar__right .toc ul.toc__list > li > a {
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: none; /* remove ALL CAPS if inherited */
+}
+
+/* H3-level links (nested list items) */
+.sidebar__right .toc ul ul li > a {
+  font-size: 0.85rem;
+  font-weight: 400;
+  margin-left: 0.5rem;
+  text-transform: none;
+  opacity: 0.85;
+}
+
+/* Optional indentation guide */
+.sidebar__right .toc ul ul {
+  border-left: 2px solid rgba(0,0,0,0.1);
+  margin-left: 0.6rem;
+  padding-left: 0.6rem;
+}
+
+/* Dark theme tweak */
+[data-theme="dark"] .sidebar__right .toc ul ul {
+  border-left-color: rgba(255,255,255,0.15);
+}
