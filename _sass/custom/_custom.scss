@@ -7,3 +7,7 @@
 [data-theme="dark"] .nav__title {
   color: #eee !important;
 }
+
+/* ToC heading colour override */
+.toc .nav__title { color: #222 !important; }
+[data-theme="dark"] .toc .nav__title { color: #eee !important; }

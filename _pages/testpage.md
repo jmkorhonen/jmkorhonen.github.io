@@ -19,6 +19,14 @@ Should've see ToC, updated version, and NOW with `_custom.scss` effects
 and new date format
 
 added lines to main.scss
+
+added to `_custom.scss`:
+
+```css
+/* ToC heading colour override */
+.toc .nav__title { color: #222 !important; }
+[data-theme="dark"] .toc .nav__title { color: #eee !important; }
+```
 # Heading 1
 
 ## Heading 2
