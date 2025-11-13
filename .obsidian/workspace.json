@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/test_notes.md",
+                "file": "_pages/testpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test_notes"
+              "title": "Backlinks for testpage"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/test_notes.md",
+                "file": "_pages/testpage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test_notes"
+              "title": "Outgoing links from testpage"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/test_notes.md",
+                "file": "_pages/testpage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test_notes"
+              "title": "Outline of testpage"
             }
           }
         ]
@@ -226,15 +226,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40b29707ddbf8121",
+  "active": "6f081e26489a12fb",
   "lastOpenFiles": [
+    "_pages/test_notes.md",
     "_pages/404.md",
     "assets/templates/Talks_template.md",
     "assets/templates/Post_template.md",
     "assets/templates/Portfolio_template.md",
     "assets/templates/Paper_template.md",
     "assets/templates/Page_template.md",
-    "_pages/test_notes.md",
     "_pages/sitemap.md",
     "_pages/testpage.md",
     "_teaching/2015-spring-teaching-2.md",
