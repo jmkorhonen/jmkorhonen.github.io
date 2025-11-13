@@ -1,4 +1,6 @@
 {
   "propertiesInDocument": "source",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
