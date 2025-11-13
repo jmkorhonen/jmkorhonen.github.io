@@ -5,7 +5,7 @@ title: TEST Short notes & sundries
 author_profile: true
 published: true
 date: 2025-11-13 Thu 10:55
-last_update: 2025-11-13 Thu 02:32
+last_update: 2025-11-13 Thu 02:33
 modified: 2025-11-13 Thu 01:58
 ---
 Shorter and sometimes longer notes about various things, newest first. 
