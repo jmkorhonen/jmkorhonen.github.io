@@ -9,7 +9,7 @@ toc_sticky: true
 toc_label: Contents
 toc_icon: list
 published: true
-modified: 2025-11-13 Thu 02:19
+modified: 2025-11-13 Thu 15:16
 ---
 
 Let's test how to push things to and fro Obsidian.
@@ -17,6 +17,8 @@ Let's test how to push things to and fro Obsidian.
 Should've see ToC, updated version, and NOW with `_custom.scss` effects
 
 and new date format
+
+added lines to main.scss
 # Heading 1
 
 ## Heading 2
