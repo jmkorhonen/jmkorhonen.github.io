@@ -9,11 +9,13 @@ toc_sticky: false
 toc_label: Contents
 toc_icon: list
 published: true
-sidebar.nav: true
-modified: 2025-11-13 Thu 16:26
+modified: 2025-11-13 Thu 16:48
 ---
 
 Let's test how to push things to and fro Obsidian.
+
+
+Trying to change the sidebar to the left
 
 set author_profile: false
 
@@ -65,7 +67,6 @@ Codeblocks: Excel
 
 ### This should be lvl 3
 
-## How does this handle very long headings, like these
-
-### Or if I try to write another extremely long heading 3, like here
+## This is lvl 2
+### And heading 3
 
