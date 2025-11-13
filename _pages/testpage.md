@@ -4,9 +4,29 @@ date: 2025-11-13 10:38
 layout: archive
 permalink: /testpage/
 author_profile: true
-published: false
-last_update: 2025-11-13 10:45
+published: true
+last_update: 2025-11-13 01:15
 ---
 
 Let's test how to push things to and fro Obsidian.
 
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+**Bold**
+>Blockquote
+
+*Italic*
+>Blockquote, line 1
+>Blockquote, line 2
+
+`Code`
+
+```Excel
+=IF(A1)
+```
