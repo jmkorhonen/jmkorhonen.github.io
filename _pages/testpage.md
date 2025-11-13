@@ -14,7 +14,7 @@ modified: 2025-11-13 Thu 02:19
 
 Let's test how to push things to and fro Obsidian.
 
-Should've see ToC, updated version, and with custom.scss effects
+Should've see ToC, updated version, and NOW with `_custom.scss` effects
 
 and new date format
 # Heading 1
