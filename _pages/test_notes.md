@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /test_notes/
-title: Short notes & sundries
+title: TEST Short notes & sundries
 author_profile: true
 published: true
 last_update: 2025-11-13 12:33
@@ -10,6 +10,8 @@ date: 2025-11-13 10:55
 Shorter and sometimes longer notes about various things, newest first. 
 
 For long-form posts, see <a href="https://jmkorhonen.github.io/essays/">Essays</a>; for everything in reverse chronological order, see <a href="https://jmkorhonen.github.io/year-archive/">EVERYTHING</a>.
+
+## Test
 {% include base_path %}
 
 {% assign notes = site.posts | where_exp: "p", "p.categories contains 'Notes'" %}
