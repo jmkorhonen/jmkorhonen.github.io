@@ -1,0 +1,9 @@
+/* Improve visibility of the ToC heading */
+.nav__title {
+  color: #222 !important;   /* darker for light theme */
+}
+
+/* Optional: make it adapt to dark theme */
+[data-theme="dark"] .nav__title {
+  color: #eee !important;
+}
