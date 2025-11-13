@@ -45,12 +45,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "markdown_generator/readme.md",
+                    "file": "_teaching/2015-spring-teaching-2.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "readme"
+                  "title": "2015-spring-teaching-2"
                 }
               }
             ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown_generator/readme.md",
+                "file": "_teaching/2015-spring-teaching-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks for 2015-spring-teaching-2"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown_generator/readme.md",
+                "file": "_teaching/2015-spring-teaching-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from readme"
+              "title": "Outgoing links from 2015-spring-teaching-2"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown_generator/readme.md",
+                "file": "_teaching/2015-spring-teaching-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of readme"
+              "title": "Outline of 2015-spring-teaching-2"
             }
           }
         ]
@@ -226,25 +226,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40b29707ddbf8121",
+  "active": "ea76ccc622be1b15",
   "lastOpenFiles": [
-    "_pages/testpage.md",
+    "_teaching/2014-spring-teaching-1.md",
+    "_talks/2013-03-01-tutorial-1.md",
+    "_talks/2014-03-01-talk-3.md",
+    "_talks/2014-02-01-talk-2.md",
+    "_talks/2012-03-01-talk-1.md",
+    "_publications/2009-10-01-paper-title-number-1.md",
+    "_publications/2010-10-01-paper-title-number-2.md",
+    "_portfolio/portfolio-1.md",
+    "_pages/sitemap.md",
+    "_pages/cv-json.md",
+    "_pages/non-menu-page.md",
+    "_pages/markdown.md",
+    "_pages/cv.md",
+    "_pages/archive-layout-with-content.md",
     "markdown_generator/readme.md",
+    "_pages/testpage.md",
     "assets/templates/Talks_template.md",
     "assets/templates/Paper_template.md",
     "assets/templates/Page_template.md",
     "assets/templates/Portfolio_template.md",
     "assets/templates/Post_template.md",
-    "_talks/2012-03-01-talk-1.md",
-    "_portfolio/portfolio-1.md",
     "files/publications/paper1.pdf",
     "files/presentations/slides1.pdf",
     "files/publications",
     "files/presentations",
-    "_publications/2009-10-01-paper-title-number-1.md",
     "_pages/Excel.md",
     "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
-    "_pages/sitemap.md",
     "assets/templates",
     "_pages/terms.md"
   ]

@@ -1,7 +1,10 @@
 ---
-title: "Archive Layout with Content"
+title: Archive Layout with Content
 layout: archive
+published: false
 permalink: /archive-layout-with-content/
+last_update: 2025-11-13 10:44
+date: 2025-11-13 09:34
 ---
 
 A variety of common markup showing how the theme styles them.

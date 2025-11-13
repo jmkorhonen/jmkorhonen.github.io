@@ -1,10 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: Markdown
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
+published: false
+last_update: 2025-11-13 10:44
+date: 2025-11-13 09:34
 ---
 
 {% include toc %}

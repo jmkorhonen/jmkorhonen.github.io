@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv-json/
 author_profile: false
 redirect_from:
   - /resume-json
+published: false
+last_update: 2025-11-13 10:45
+date: 2025-11-13 09:34
 ---
 
 {% include base_path %}
