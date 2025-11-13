@@ -45,12 +45,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_teaching/2015-spring-teaching-2.md",
+                    "file": "_pages/sitemap.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2015-spring-teaching-2"
+                  "title": "sitemap"
                 }
               }
             ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_teaching/2015-spring-teaching-2.md",
+                "file": "_pages/sitemap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2015-spring-teaching-2"
+              "title": "Backlinks for sitemap"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_teaching/2015-spring-teaching-2.md",
+                "file": "_pages/sitemap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2015-spring-teaching-2"
+              "title": "Outgoing links from sitemap"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_teaching/2015-spring-teaching-2.md",
+                "file": "_pages/sitemap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2015-spring-teaching-2"
+              "title": "Outline of sitemap"
             }
           }
         ]
@@ -226,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea76ccc622be1b15",
+  "active": "40b29707ddbf8121",
   "lastOpenFiles": [
+    "_teaching/2015-spring-teaching-2.md",
     "_teaching/2014-spring-teaching-1.md",
     "_talks/2013-03-01-tutorial-1.md",
     "_talks/2014-03-01-talk-3.md",
