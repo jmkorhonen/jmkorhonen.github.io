@@ -9,12 +9,15 @@ toc_sticky: false
 toc_label: Contents
 toc_icon: list
 published: true
+sidebar.nav: true
 modified: 2025-11-13 Thu 15:16
 ---
 
 Let's test how to push things to and fro Obsidian.
 
-Removed sidebar.nav: true
+Added once again sidebar.nav: true
+
+Changed single.html
 
 Commented out visual indent
 
