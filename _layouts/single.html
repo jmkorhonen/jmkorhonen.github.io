@@ -52,7 +52,7 @@ layout: default
 					<strong><i class="fa fa-fw fa-refresh" aria-hidden="true"></i>
 						{{ site.data.ui-text[site.locale].updated_label | default: "Last updated:" }}
 					</strong>
-					<time datetime="{{ updated | date_to_xmlschema }}">{{ updated | date: "%d.%m.%Y %h:%m" }}</time>
+					<time datetime="{{ updated | date_to_xmlschema }}">{{ updated | date: "%d.%m.%Y %H:%m" }}</time>
 				</p>
 			{% endif %}
 
