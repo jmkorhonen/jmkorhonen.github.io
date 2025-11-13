@@ -228,8 +228,14 @@
   },
   "active": "40b29707ddbf8121",
   "lastOpenFiles": [
-    "_pages/sitemap.md",
+    "_pages/404.md",
+    "assets/templates/Talks_template.md",
+    "assets/templates/Post_template.md",
+    "assets/templates/Portfolio_template.md",
+    "assets/templates/Paper_template.md",
+    "assets/templates/Page_template.md",
     "_pages/test_notes.md",
+    "_pages/sitemap.md",
     "_pages/testpage.md",
     "_teaching/2015-spring-teaching-2.md",
     "_teaching/2014-spring-teaching-1.md",
@@ -246,18 +252,12 @@
     "_pages/cv.md",
     "_pages/archive-layout-with-content.md",
     "markdown_generator/readme.md",
-    "assets/templates/Talks_template.md",
-    "assets/templates/Paper_template.md",
-    "assets/templates/Page_template.md",
-    "assets/templates/Portfolio_template.md",
-    "assets/templates/Post_template.md",
     "files/publications/paper1.pdf",
     "files/presentations/slides1.pdf",
     "files/publications",
     "files/presentations",
     "_pages/Excel.md",
     "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
-    "assets/templates",
-    "_pages/terms.md"
+    "assets/templates"
   ]
 }

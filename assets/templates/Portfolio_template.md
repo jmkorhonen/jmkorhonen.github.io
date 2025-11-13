@@ -8,6 +8,6 @@ categories:
 - Showcase
 tags:
 
-published: FALSE
+published: false
 last_update: {{date:YYYY-MM-DD}} {{time}}
 ---

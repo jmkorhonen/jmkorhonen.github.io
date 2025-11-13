@@ -4,11 +4,11 @@ permalink: /test_notes/
 title: Short notes & sundries
 author_profile: true
 published: true
-last_update: 2025-11-13 10:56
+last_update: 2025-11-13 12:16
 date: 2025-11-13 10:55
 ---
 Shorter and sometimes longer notes about various things, newest first. 
-<br>
+
 For long-form posts, see <a href="https://jmkorhonen.github.io/essays/">Essays</a>; for everything in reverse chronological order, see <a href="https://jmkorhonen.github.io/year-archive/">EVERYTHING</a>.
 {% include base_path %}
 
@@ -18,7 +18,7 @@ For long-form posts, see <a href="https://jmkorhonen.github.io/essays/">Essays</
 {% for post in notes %}
   {% assign year = post.date | date: '%Y' %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    ### id="{{ year | slugify }}" class="archive__subtitle">{{ year }}
     {% assign written_year = year %}
   {% endif %}
   {% include archive-single.html %}

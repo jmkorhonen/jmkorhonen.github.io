@@ -14,7 +14,7 @@ citation: Korhonen, Janne M. ({{date:YYYY}}). &quot;Paper Title Number 1.&quot; 
 author_profile: true
 tags:
 
-published: FALSE
+published: false
 last_update: {{date:YYYY-MM-DD}} {{time}}
 ---
 
