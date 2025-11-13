@@ -37,14 +37,14 @@
 /* --- ToC visual hierarchy --- */
 
 /* H2-level links */
-.sidebar__right .toc ul.toc__list > li > a {
+.sidebar__right .toc > ul#toc-list > li > a {
   font-size: 0.95rem;
   font-weight: 600;
   text-transform: none; /* remove ALL CAPS if inherited */
 }
 
 /* H3-level links (nested list items) */
-.sidebar__right .toc ul ul li > a {
+.sidebar__right .toc #toc-list ul li > a {
   font-size: 0.85rem;
   font-weight: 400;
   margin-left: 0.5rem;
@@ -52,8 +52,8 @@
   opacity: 0.85;
 }
 
-/* Optional indentation guide */
-.sidebar__right .toc ul ul {
+/* Visual indent for nested lists */
+.sidebar__right .toc #toc-list ul {
   border-left: 2px solid rgba(0,0,0,0.1);
   margin-left: 0.6rem;
   padding-left: 0.6rem;

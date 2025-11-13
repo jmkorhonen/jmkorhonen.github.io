@@ -226,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40b29707ddbf8121",
+  "active": "6f081e26489a12fb",
   "lastOpenFiles": [
+    "_pages/testpage.md",
     "_sass/custom/_custom.scss",
     "_pages/test_notes.md",
     "assets/templates/Page_template.md",
@@ -235,7 +236,6 @@
     "_sass/custom",
     "_sass/New folder",
     "assets/js/toc.js",
-    "_pages/testpage.md",
     "_includes/toc.html",
     "_pages/Excel.md",
     "assets/templates/Talks_template.md",
@@ -262,7 +262,6 @@
     "files/publications/paper1.pdf",
     "files/presentations/slides1.pdf",
     "files/publications",
-    "files/presentations",
-    "assets/templates"
+    "files/presentations"
   ]
 }
