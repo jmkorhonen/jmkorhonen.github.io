@@ -1,5 +1,5 @@
 {
-  "frontmatterProperty": "modified",
+  "frontmatterProperty": "last_update",
   "createdDateProperty": "date",
   "momentFormat": "YYYY-MM-DD ddd hh:mm",
   "storeHistoryLog": false,
@@ -7,7 +7,7 @@
   "historyMaxItems": 0,
   "excludedFolders": [],
   "useKeyupEvents": false,
-  "onlyUpdateExisting": false,
+  "onlyUpdateExisting": true,
   "timeout": 10,
   "excludeField": "exclude_modified_update",
   "appendField": "append_modified_update",

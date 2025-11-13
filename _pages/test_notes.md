@@ -4,8 +4,9 @@ permalink: /test_notes/
 title: TEST Short notes & sundries
 author_profile: true
 published: true
+date: 2025-11-13 Thu 10:55
+last_update: 2025-11-13 Thu 02:32
 modified: 2025-11-13 Thu 01:58
-date: 2025-11-13 10:55
 ---
 Shorter and sometimes longer notes about various things, newest first. 
 
