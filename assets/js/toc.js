@@ -6,8 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const headings = [...content.querySelectorAll('h2, h3')];
   if (headings.length < 2) return;
 
-  const slugify = s => s.toLowerCase()
-    .trim()
+  const slugify = s => s.toLowerCase().trim()
     .replace(/[\s]+/g, '-')
     .replace(/[^\w\-]+/g, '')
     .replace(/\-+/g, '-');
@@ -19,14 +18,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const level = parseInt(h.tagName.substring(1), 10); // 2 or 3
     if (!h.id) h.id = slugify(h.textContent);
 
-    if (level > lastLevel) {
-      const ul = document.createElement('ul');
-      currentUl.lastElementChild?.appendChild(ul);
-      currentUl = ul;
-    } else if (level < lastLevel) {
+    // If we see an H3 before any H2, treat it as H2
+    const effLevel = (level === 3 && lastLevel === 2 && !currentUl.lastElementChild) ? 2 : level;
+
+    if (effLevel > lastLevel) {
+      // Nest under the previous LI; if missing, don't nest
+      const parentLi = currentUl.lastElementChild;
+      if (parentLi && parentLi.tagName === 'LI') {
+        const ul = document.createElement('ul');
+        parentLi.appendChild(ul);
+        currentUl = ul;
+      }
+    } else if (effLevel < lastLevel) {
+      // Pop back to the nearest ancestor UL (handles h3 -> h2)
       currentUl = currentUl.parentElement.closest('ul') || list;
     }
-    lastLevel = level;
+    lastLevel = effLevel;
 
     const li = document.createElement('li');
     const a = document.createElement('a');
