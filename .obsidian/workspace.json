@@ -228,8 +228,9 @@
   },
   "active": "40b29707ddbf8121",
   "lastOpenFiles": [
-    "assets/templates/Page_template.md",
+    "_pages/cv.md",
     "_pages/testpage.md",
+    "assets/templates/Page_template.md",
     "_sass/custom/_custom.scss",
     "_pages/test_notes.md",
     "_sass/custom/custom.scss",
@@ -256,7 +257,6 @@
     "_pages/cv-json.md",
     "_pages/non-menu-page.md",
     "_pages/markdown.md",
-    "_pages/cv.md",
     "_pages/archive-layout-with-content.md",
     "markdown_generator/readme.md",
     "files/publications/paper1.pdf",
