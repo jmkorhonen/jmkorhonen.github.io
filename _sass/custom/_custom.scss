@@ -1,23 +1,36 @@
-/* Right-rail ToC that floats beside content */
+/* Two-column layout: content + right rail */
 .page__inner-wrap {
-  display: flow-root; /* establish a new block formatting context for floats */
+  display: grid;
+  grid-template-columns: 1fr 20rem; /* content | right pane width */
+  column-gap: 1.5rem;
+  align-items: start;
 }
 
-.sidebar__right {
-  float: right;
-  width: 18rem;
-  margin: 0 0 1rem 1.5rem;
+/* Ensure main content occupies the left column */
+.page__inner-wrap > .page__content {
+  grid-column: 1;
+  min-width: 0; /* prevent overflow */
+}
+
+/* Right sidebar behaviour */
+.page__inner-wrap > .sidebar__right {
+  grid-column: 2;
   position: sticky;
-  top: 2rem;          /* adjust if your masthead is taller */
-  align-self: flex-start;
+  top: 2rem; /* adjust to clear your masthead */
 }
 
-.page__content { overflow: visible; }
-
-/* Collapse to inline on narrow screens */
+/* Mobile: collapse to one column */
 @media (max-width: 900px) {
-  .sidebar__right { float: none; width: auto; position: static; margin: 0 0 1rem 0; }
+  .page__inner-wrap {
+    grid-template-columns: 1fr;
+  }
+  .page__inner-wrap > .sidebar__right {
+    grid-column: 1;
+    position: static;
+    margin-bottom: 1rem;
+  }
 }
+
 
 /* Improve visibility of the ToC heading */
 .nav__title {

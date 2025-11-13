@@ -10,10 +10,13 @@ toc_label: Contents
 toc_icon: list
 published: true
 sidebar.nav: true
-modified: 2025-11-13 Thu 16:14
+modified: 2025-11-13 Thu 16:26
 ---
 
 Let's test how to push things to and fro Obsidian.
+
+New version of `_custom.scss` with
+Two-column layout: content + right rail
 
 Added Right-rail ToC that floats beside content to single.html
 
