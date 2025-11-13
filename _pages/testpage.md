@@ -1,6 +1,6 @@
 ---
 title: Testing Obsidian push
-date: 2025-11-13 Thu 10:38
+date: 2025-11-12 
 permalink: /testpage/
 layout: single
 author_profile: false
