@@ -42,6 +42,16 @@ added to `_custom.scss`: (now commented out for testing)
 
 `Code`
 
+Codeblocks: Excel
 ```Excel
 =IF(A1)
 ```
+
+## Testing table of contents
+
+### This should be lvl 3
+
+## How does this handle very long headings, like these
+
+### Or if I try to write another extremely long heading 3, like here
+
