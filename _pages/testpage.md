@@ -2,9 +2,13 @@
 title: Testing Obsidian push
 date: 2025-11-13 Thu 10:38
 permalink: /testpage/
-author_profile: true
+author_profile: false
+toc: true
+toc_sticky: true
+toc_label: Contents
+toc_icon: list
 published: true
-modified: 2025-11-13 Thu 01:18
+modified: 2025-11-13 Thu 02:02
 ---
 
 Let's test how to push things to and fro Obsidian.
