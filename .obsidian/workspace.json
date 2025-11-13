@@ -66,12 +66,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_pages/testpage.md",
+                    "file": "_pages/Excel.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "testpage"
+                  "title": "Excel"
                 }
               }
             ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "_pages/Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testpage"
+              "title": "Backlinks for Excel"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "_pages/Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from testpage"
+              "title": "Outgoing links from Excel"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "_pages/Excel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testpage"
+              "title": "Outline of Excel"
             }
           }
         ]
@@ -229,13 +229,13 @@
   "active": "6f081e26489a12fb",
   "lastOpenFiles": [
     "_pages/test_notes.md",
-    "_pages/testpage.md",
-    "_pages/404.md",
     "assets/templates/Talks_template.md",
     "assets/templates/Post_template.md",
     "assets/templates/Portfolio_template.md",
     "assets/templates/Paper_template.md",
     "assets/templates/Page_template.md",
+    "_pages/testpage.md",
+    "_pages/404.md",
     "_pages/sitemap.md",
     "_teaching/2015-spring-teaching-2.md",
     "_teaching/2014-spring-teaching-1.md",

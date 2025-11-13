@@ -1,10 +1,10 @@
 ---
 title: ""
-date: {{date:YYYY-MM-DD}} {{time}}
+date: {{date:YYYY-MM-DD ddd}} {{time}}
 layout: archive
 permalink: /{{title}}/
 author_profile: true
 published: false
-last_update: {{date:YYYY-MM-DD}} {{time}}
+modified: {{date:YYYY-MM-DD ddd}} {{time}}
 ---
 

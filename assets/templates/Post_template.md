@@ -1,11 +1,11 @@
 ---
 title: ""
-date: {{date:YYYY-MM-DD}} {{time}}
+date: {{date:YYYY-MM-DD ddd}} {{time}}
 permalink: /posts/{{date:YYYY}}/{{title}}/
 categories:
 
 tags:
 
 published: false
-last_update: {{date:YYYY-MM-DD}} {{time}}
+modified: {{date:YYYY-MM-DD ddd}} {{time}}
 ---

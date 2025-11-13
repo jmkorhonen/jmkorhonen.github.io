@@ -1,6 +1,6 @@
 ---
 title: Talk on Relevant Topic in Your Field
-date: {{date:YYYY-MM-DD}} {{time}}
+date: {{date:YYYY-MM-DD ddd}} {{time}}
 permalink: /talks/{{title}}
 venue: UC San Francisco, Department of Testing
 location: San Francisco, CA, USA
@@ -14,7 +14,7 @@ categories:
 tags:
 
 published: false
-last_update: {{date:YYYY-MM-DD}} {{time}}
+modified: {{date:YYYY-MM-DD ddd}} {{time}}
 ---
 
 

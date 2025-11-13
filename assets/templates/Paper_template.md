@@ -1,6 +1,6 @@
 ---
 title: ""
-date: {{date:YYYY-MM-DD}}
+date: {{date:YYYY-MM-DD ddd}} {{time}}
 collection: publications
 excerpt: ""
 categories:
@@ -15,7 +15,7 @@ author_profile: true
 tags:
 
 published: false
-last_update: {{date:YYYY-MM-DD}} {{time}}
+modified: {{date:YYYY-MM-DD ddd}} {{time}}
 ---
 
 
