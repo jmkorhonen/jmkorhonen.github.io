@@ -66,12 +66,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_pages/testpage.md",
+                    "file": "assets/templates/Page_template.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "testpage"
+                  "title": "Page_template"
                 }
               }
             ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "assets/templates/Page_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testpage"
+              "title": "Backlinks for Page_template"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "assets/templates/Page_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from testpage"
+              "title": "Outgoing links from Page_template"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/testpage.md",
+                "file": "assets/templates/Page_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testpage"
+              "title": "Outline of Page_template"
             }
           }
         ]
@@ -228,9 +228,9 @@
   },
   "active": "6f081e26489a12fb",
   "lastOpenFiles": [
+    "_pages/testpage.md",
     "_pages/test_notes.md",
     "_includes/toc.html",
-    "_pages/testpage.md",
     "_pages/Excel.md",
     "assets/templates/Talks_template.md",
     "assets/templates/Post_template.md",

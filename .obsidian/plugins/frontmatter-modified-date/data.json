@@ -1,7 +1,7 @@
 {
   "frontmatterProperty": "last_update",
   "createdDateProperty": "date",
-  "momentFormat": "YYYY-MM-DD ddd hh:mm",
+  "momentFormat": "YYYY-MM-DD ddd HH:mm",
   "storeHistoryLog": false,
   "historyNewestFirst": false,
   "historyMaxItems": 0,
