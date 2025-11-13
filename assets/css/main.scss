@@ -41,3 +41,6 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* added this line so custom overrides are loaded last */
+@import "custom/custom";
