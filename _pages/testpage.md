@@ -1,10 +1,10 @@
 ---
 title: Testing Obsidian push
-date: 2025-11-13 10:38
+date: 2025-11-13 Thu 10:38
 permalink: /testpage/
 author_profile: true
 published: true
-last_update: 2025-11-13 01:18
+modified: 2025-11-13 Thu 01:18
 ---
 
 Let's test how to push things to and fro Obsidian.
