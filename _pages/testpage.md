@@ -3,7 +3,7 @@ title: Testing Obsidian push
 date: 2025-11-12
 permalink: /testpage/
 layout: single
-author_profile: true
+author_profile: false
 toc: true
 toc_sticky: false
 toc_label: Contents
@@ -14,6 +14,8 @@ modified: 2025-11-13 Thu 16:26
 ---
 
 Let's test how to push things to and fro Obsidian.
+
+set author_profile: false
 
 New version of `_custom.scss` with
 Two-column layout: content + right rail
