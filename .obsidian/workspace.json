@@ -101,12 +101,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_pages/log.md",
+                    "file": "assets/templates/Log_template.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "log"
+                  "title": "Log_template"
                 }
               },
               {
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_log/2025-11-14.md",
+                "file": "assets/templates/Log_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11-14"
+              "title": "Backlinks for Log_template"
             }
           },
           {
@@ -268,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_log/2025-11-14.md",
+                "file": "assets/templates/Log_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-14"
+              "title": "Outline of Log_template"
             }
           }
         ],
@@ -296,11 +296,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6f081e26489a12fb",
+  "active": "6ba8c4a358aff250",
   "lastOpenFiles": [
-    "_pages/notes.md",
     "_pages/log.md",
     "_log/2025-11-14.md",
+    "_pages/notes.md",
     "_includes/archive-log.html",
     "_log/2022-05-19-bitcoin-tether-beanstalk.md",
     "assets/templates/Log_template.md",

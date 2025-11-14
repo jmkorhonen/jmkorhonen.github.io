@@ -18,3 +18,7 @@ modified:
 
 
 ## Other stuff
+
+
+
+*[Return to Logs](https://jmkorhonen.github.io/log/)*
