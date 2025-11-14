@@ -4,9 +4,10 @@ date: 2025-11-14
 layout: archive
 collection: notes
 permalink: /notes/
+author_profile: false
 toc: true
 published: true
-last_update: 2025-11-14 Fri 13:13
+last_update: 2025-11-14 Fri 13:33
 modified:
 ---
 This page serves as an index to my public notes and notebooks.
@@ -28,7 +29,7 @@ Short or long summaries of research articles, books, &c.
 
 ## All notes, by year
 
-Newest first.
+Oldest first.
 
 {% include base_path %}
 
