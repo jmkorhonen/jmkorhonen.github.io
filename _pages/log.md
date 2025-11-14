@@ -6,7 +6,7 @@ permalink: /log/
 author_profile: true
 toc: false
 date: 2025-11-14
-last_update: 2025-11-14 Fri 13:58
+last_update: 2025-11-14 Fri 14:01
 modified:
 published: true
 ---
@@ -15,7 +15,8 @@ My logbook: news, websites, and other things I've found interesting for one reas
 {% include base_path %}
 {% assign written_year = 'None' %}
 {% assign written_month = 'None' %}
-{% for post in site.log %}
+{% assign logs = site.log | sort: 'date' | reverse %}
+{% for post in logs %}
 	{% assign year = post.date | date: '%Y' %}
 	{% assign month = post.date | date: '%B' %}
 	{% if year != written_year %}
