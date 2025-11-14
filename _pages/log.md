@@ -6,7 +6,7 @@ permalink: /log/
 author_profile: true
 toc: false
 date: 2025-11-14
-last_update: 2025-11-14 Fri 13:53
+last_update: 2025-11-14 Fri 13:58
 modified:
 published: true
 ---
@@ -26,5 +26,5 @@ My logbook: news, websites, and other things I've found interesting for one reas
 ## {{ month }}
 		{% assign written_month = month %}
 	{% endif %}
-	{% include archive-single.html %}
+	{% include archive-log.html %}
 {% endfor %}
