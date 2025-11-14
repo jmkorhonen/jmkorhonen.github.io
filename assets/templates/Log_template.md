@@ -12,6 +12,7 @@ published: false
 last_update: {{date:YYYY-MM-DD ddd}} {{time}}
 modified:
 ---
+*{{date:d, D.M.YYYY}}*.
 ## News
 
 
