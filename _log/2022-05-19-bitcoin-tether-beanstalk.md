@@ -10,7 +10,7 @@ tags:
   - Bitcoin
   - Cryptocurrencies
   - Energy
-last_update: 2025-11-14 Fri 13:52
+last_update: 2025-11-14 Fri 14:09
 published: true
 modified: 2025-11-14
 ---
@@ -47,3 +47,5 @@ In the real world, similar exploits are not easy. While someone could, for examp
 [https://www.coindesk.com/tech/2022/04/17/attacker-drains-182m-from-beanstalk-stablecoin-protocol/](https://www.coindesk.com/tech/2022/04/17/attacker-drains-182m-from-beanstalk-stablecoin-protocol/)
 
 *Originally published at [jmkorhonen.net](https://jmkorhonen.net/2022/05/19/19-5-2022-bitcoin-tether-beanstalk/).*
+
+*[Return to Logs](https://jmkorhonen.github.io/log/)*

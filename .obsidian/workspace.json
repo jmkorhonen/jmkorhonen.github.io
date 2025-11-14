@@ -101,12 +101,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "assets/templates/Log_template.md",
+                    "file": "_log/2022-05-19-bitcoin-tether-beanstalk.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Log_template"
+                  "title": "2022-05-19-bitcoin-tether-beanstalk"
                 }
               },
               {
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/templates/Log_template.md",
+                "file": "_log/2022-05-19-bitcoin-tether-beanstalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Log_template"
+              "title": "Backlinks for 2022-05-19-bitcoin-tether-beanstalk"
             }
           },
           {
@@ -268,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/templates/Log_template.md",
+                "file": "_log/2022-05-19-bitcoin-tether-beanstalk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Log_template"
+              "title": "Outline of 2022-05-19-bitcoin-tether-beanstalk"
             }
           }
         ],
@@ -298,12 +298,12 @@
   },
   "active": "6ba8c4a358aff250",
   "lastOpenFiles": [
-    "_pages/log.md",
+    "assets/templates/Log_template.md",
     "_log/2025-11-14.md",
+    "_pages/log.md",
     "_pages/notes.md",
     "_includes/archive-log.html",
     "_log/2022-05-19-bitcoin-tether-beanstalk.md",
-    "assets/templates/Log_template.md",
     "_pages/guide_to_configuring_jekyll.md",
     "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
     "_posts/2022/2022-09-21-russian-industrial-mobilization-cannot-alter-the-outcome-of-the-war.md",
