@@ -9,7 +9,7 @@ toc_sticky: false
 toc_label: Contents
 toc_icon: list
 published: true
-last_update: 2025-11-14 Fri 09:42
+last_update: 2025-11-14 Fri 09:43
 modified: 2025-11-14 Fri 09:18
 ---
 
@@ -21,7 +21,11 @@ Added Updated field to archive-single.html:
 ```
 {% assign updated = page.last_modified_at | default: page.modified %}
 		{% if updated and updated != page.date %}
+		...
+		{% endif %}
 ```
+
+(turns out it tries to run this code!)
 
 Changed "Last updated" to "Updated" in single.html
 
