@@ -3,10 +3,10 @@ title: Log
 layout: archive
 collection: log
 permalink: /log/
-author_profile: false
-toc: true
+author_profile: true
+toc: false
 date: 2025-11-14
-last_update: 2025-11-14 Fri 13:51
+last_update: 2025-11-14 Fri 13:53
 modified:
 published: true
 ---
@@ -19,11 +19,11 @@ My logbook: news, websites, and other things I've found interesting for one reas
 	{% assign year = post.date | date: '%Y' %}
 	{% assign month = post.date | date: '%B' %}
 	{% if year != written_year %}
-## {{ year }}
+# {{ year }}
 		{% assign written_year = year %}
 	{% endif %}
 	{% if month != written_month %}
-### {{ month }}
+## {{ month }}
 		{% assign written_month = month %}
 	{% endif %}
 	{% include archive-single.html %}
