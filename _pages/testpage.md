@@ -9,11 +9,19 @@ toc_sticky: false
 toc_label: Contents
 toc_icon: list
 published: true
-last_update: 2025-11-14 Fri 09:19
+last_update: 2025-11-14 Fri 09:42
 modified: 2025-11-14 Fri 09:18
 ---
 
 Let's test how to push things to and fro Obsidian.
+
+Added Updated field to archive-single.html:
+```
+{% assign updated = page.last_modified_at | default: page.modified %}
+		{% if updated and updated != page.date %}
+```
+
+Changed "Last updated" to "Updated" in single.html
 
 Another attempt, after fixing sidebar.html
 

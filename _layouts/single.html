@@ -52,7 +52,7 @@ layout: default
 			{% if updated and updated != page.date %}
 				<p class="page__date">
 					<strong><i class="fa fa-fw fa-refresh" aria-hidden="true"></i>
-						{{ site.data.ui-text[site.locale].updated_label | default: "Last updated:" }}
+						{{ site.data.ui-text[site.locale].updated_label | default: "Updated:" }}
 					</strong>
 					<time datetime="{{ updated | date_to_xmlschema }}">{{ updated | date: "%d.%m.%Y %H:%M" }}</time>
 				</p>
