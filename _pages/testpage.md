@@ -15,6 +15,8 @@ modified: 2025-11-14 Fri 09:18
 
 Let's test how to push things to and fro Obsidian.
 
+---
+
 Added Updated field to archive-single.html:
 ```
 {% assign updated = page.last_modified_at | default: page.modified %}
