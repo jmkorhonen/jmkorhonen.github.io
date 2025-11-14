@@ -2,10 +2,12 @@
 title: ""
 date: {{date:YYYY-MM-DD ddd}} {{time}}
 permalink: /posts/{{date:YYYY}}/{{title}}/
+toc: true
 categories:
 
 tags:
 
 published: false
-modified: {{date:YYYY-MM-DD ddd}} {{time}}
+last_update: {{date:YYYY-MM-DD ddd}} {{time}}
+modified:
 ---

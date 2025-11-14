@@ -52,9 +52,79 @@
                   "icon": "lucide-file",
                   "title": "testpage"
                 }
+              },
+              {
+                "id": "a07637031fcca4e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "assets/templates/Talks_template.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Talks_template"
+                }
+              },
+              {
+                "id": "7c202d9d5c56c12a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "assets/templates/Post_template.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Post_template"
+                }
+              },
+              {
+                "id": "953cdf7f2bd70c9c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_pages/log.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "log"
+                }
+              },
+              {
+                "id": "6ba8c4a358aff250",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_log/2025-11-14.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11-14"
+                }
+              },
+              {
+                "id": "34aaa7d78ac455ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_pages/log.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "log"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 6
           },
           {
             "id": "fd4f14b19c6a42e1",
@@ -66,12 +136,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "assets/templates/Page_template.md",
+                    "file": "_pages/guide_to_configuring_jekyll.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Page_template"
+                  "title": "guide_to_configuring_jekyll"
                 }
               }
             ]
@@ -150,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/templates/Page_template.md",
+                "file": "_log/2025-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Page_template"
+              "title": "Backlinks for 2025-11-14"
             }
           },
           {
@@ -198,40 +268,64 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/templates/Page_template.md",
+                "file": "_log/2025-11-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Page_template"
+              "title": "Outline of 2025-11-14"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "40b29707ddbf8121",
+  "active": "6ba8c4a358aff250",
   "lastOpenFiles": [
+    "_log/2022-05-19-bitcoin-tether-beanstalk.md",
+    "_log/2025-11-14.md",
+    "_pages/notes.md",
+    "_pages/guide_to_configuring_jekyll.md",
+    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
+    "_pages/log.md",
+    "assets/templates/Log_template.md",
+    "_posts/2022/2022-09-21-russian-industrial-mobilization-cannot-alter-the-outcome-of-the-war.md",
+    "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
+    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+    "_posts/2019/2019-05-13-technology-in-a-post-growth-world-lessons-from-the-1970s-at-movement.md",
+    "_posts/2020/2020-06-29-a-very-short-and-fairly-understandable-introduction-to-models.md",
+    "_posts/2020/2020-01-09-What-if-we-really-tried-to-save-our-civilization.md",
+    "_posts/2022/2022-02-23-on-the-kremlins-imperialism.md",
+    "_notes/risk-classifying-commons-natural-disasters-existential.md",
+    "assets/templates/Notes_template.md",
+    "assets/templates/Talks_template.md",
+    "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
+    "assets/templates/Post_template.md",
+    "_notes",
+    "_log",
+    "assets/templates/Portfolio_template.md",
+    "assets/templates/Paper_template.md",
+    "assets/templates/Page_template.md",
+    "_pages/TEST.md",
+    "_pages/testpage.md",
     "_includes/sidebar.html",
     "_includes/sidebar_2025-11-13.html",
-    "assets/templates/Page_template.md",
-    "_pages/testpage.md",
     "_pages/cv.md",
     "_sass/custom/_custom.scss",
     "_pages/test_notes.md",
@@ -239,30 +333,6 @@
     "_sass/custom",
     "_sass/New folder",
     "assets/js/toc.js",
-    "_includes/toc.html",
-    "_pages/Excel.md",
-    "assets/templates/Talks_template.md",
-    "assets/templates/Post_template.md",
-    "assets/templates/Portfolio_template.md",
-    "assets/templates/Paper_template.md",
-    "_pages/404.md",
-    "_pages/sitemap.md",
-    "_teaching/2015-spring-teaching-2.md",
-    "_teaching/2014-spring-teaching-1.md",
-    "_talks/2013-03-01-tutorial-1.md",
-    "_talks/2014-03-01-talk-3.md",
-    "_talks/2014-02-01-talk-2.md",
-    "_talks/2012-03-01-talk-1.md",
-    "_publications/2009-10-01-paper-title-number-1.md",
-    "_publications/2010-10-01-paper-title-number-2.md",
-    "_portfolio/portfolio-1.md",
-    "_pages/cv-json.md",
-    "_pages/non-menu-page.md",
-    "_pages/markdown.md",
-    "_pages/archive-layout-with-content.md",
-    "markdown_generator/readme.md",
-    "files/publications/paper1.pdf",
-    "files/presentations/slides1.pdf",
-    "files/publications"
+    "_includes/toc.html"
   ]
 }

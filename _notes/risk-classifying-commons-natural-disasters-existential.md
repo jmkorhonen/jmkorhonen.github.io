@@ -1,13 +1,16 @@
 ---
-title: 'On extinction risk, commons risk, and "natural" disasters'
+title: On extinction risk, commons risk, and "natural" disasters
 date: 2022-05-22
-permalink: /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disasters/
+permalink: /notes/risk-classifying-commons-natural-disasters-existential/
+redirect_from: /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disasters/
 categories:
-- Notes
+  - Notes
 tags:
-- Existential risks
-- Collapse
-- Research
+  - Risks, Existential
+  - Collapse
+  - Research
+last_update: 2025-11-14 Fri 12:54
+modified: 2025-11-14
 ---
 
 Extinction risks or X-risks are an interesting research topic that, however, has its own share of problems. I have one article in the works about some of its blind spots, and will be getting back to the topic later. Meanwhile, here’s something on classifying extinction risks, based on the following paper:

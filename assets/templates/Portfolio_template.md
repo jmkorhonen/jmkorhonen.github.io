@@ -9,5 +9,6 @@ categories:
 tags:
 
 published: false
-modified: {{date:YYYY-MM-DD ddd}} {{time}}
+last_update: {{date:YYYY-MM-DD ddd}} {{time}}
+modified:
 ---

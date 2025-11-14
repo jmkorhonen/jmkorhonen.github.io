@@ -12,10 +12,12 @@ paperurl: https://jmkorhonen.github.io/files/publications/{{title}}.pdf
 bibtexurl: https://jmkorhonen.github.io/files/publications/{{title}}.bib
 citation: Korhonen, Janne M. ({{date:YYYY}}). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).
 author_profile: true
+toc: false
 tags:
 
 published: false
-modified: {{date:YYYY-MM-DD ddd}} {{time}}
+last_update: {{date:YYYY-MM-DD ddd}} {{time}}
+modified:
 ---
 
 
