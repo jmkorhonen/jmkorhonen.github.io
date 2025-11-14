@@ -228,6 +228,8 @@
   },
   "active": "40b29707ddbf8121",
   "lastOpenFiles": [
+    "_includes/sidebar.html",
+    "_includes/sidebar_2025-11-13.html",
     "assets/templates/Page_template.md",
     "_pages/testpage.md",
     "_pages/cv.md",
@@ -261,7 +263,6 @@
     "markdown_generator/readme.md",
     "files/publications/paper1.pdf",
     "files/presentations/slides1.pdf",
-    "files/publications",
-    "files/presentations"
+    "files/publications"
   ]
 }

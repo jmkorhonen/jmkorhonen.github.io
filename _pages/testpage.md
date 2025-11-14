@@ -9,11 +9,13 @@ toc_sticky: false
 toc_label: Contents
 toc_icon: list
 published: true
-modified: 2025-11-13 Thu 16:48
+last_update: 
+modified: 2025-11-14 Fri 09:18
 ---
 
 Let's test how to push things to and fro Obsidian.
 
+Another attempt, after fixing sidebar.html
 
 Trying to change the sidebar to the left
 
