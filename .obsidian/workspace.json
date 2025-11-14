@@ -136,12 +136,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "assets/templates/Log_template.md",
+                    "file": "_log/2022-05-19-bitcoin-tether-beanstalk.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Log_template"
+                  "title": "2022-05-19-bitcoin-tether-beanstalk"
                 }
               }
             ]
@@ -298,13 +298,13 @@
   },
   "active": "6ba8c4a358aff250",
   "lastOpenFiles": [
-    "_pages/notes.md",
+    "_log/2022-05-19-bitcoin-tether-beanstalk.md",
     "assets/templates/Log_template.md",
+    "_pages/log.md",
+    "_pages/notes.md",
     "_log/2025-11-14.md",
     "_pages/guide_to_configuring_jekyll.md",
-    "_log/2022-05-19-bitcoin-tether-beanstalk.md",
     "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
-    "_pages/log.md",
     "_posts/2022/2022-09-21-russian-industrial-mobilization-cannot-alter-the-outcome-of-the-war.md",
     "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
     "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
