@@ -11,8 +11,8 @@ toc_icon: list
 published: true
 perma_id: "202511120000"
 redirect_from:
-- "/202511120000/"
-last_update: 2025-11-17 Mon 11:23
+  - /202511120000/
+last_update: 2025-11-17 Mon 11:24
 modified: 2025-11-14 Fri 09:18
 ---
 
