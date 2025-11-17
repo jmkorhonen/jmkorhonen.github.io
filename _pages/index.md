@@ -20,7 +20,7 @@ Topical index.
 
 ## Environment
 ### Polycrisis
-#### On extinction risk, commons risk, and "natural" disasters (22.5.2022)
+#### [On extinction risk, commons risk, and "natural" disasters (22.5.2022)](/id202205221153/)
 ## History of Technology
 #### [Space system “Shuttle,” part of USA’s nuclear attack arsenal? (18.11.2013)](/posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal/) 
 
