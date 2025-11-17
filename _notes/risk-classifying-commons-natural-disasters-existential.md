@@ -1,15 +1,19 @@
 ---
 title: On extinction risk, commons risk, and "natural" disasters
-date: 2022-05-22
+date: 2022-05-22 Fri 11:53
 permalink: /notes/risk-classifying-commons-natural-disasters-existential/
-redirect_from: /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disasters/
+perma_id: 202205221153
+redirect_from:
+  - /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disasters/
+  - /202205221153/
 categories:
   - Notes
+  - Archives
 tags:
   - Risks, Existential
   - Collapse
   - Research
-last_update: 2025-11-14 Fri 12:54
+last_update: 2025-11-17 Mon 10:50
 modified: 2025-11-14
 ---
 

@@ -1,9 +1,13 @@
 ---
 title: "What if we really tried to save our civilization? An introduction to Plan B"
-date: 2020-01-09
+date: 2020-01-09 Thu 16:13
 permalink: /posts/2020/2020-01-09-What-if-we-really-tried-to-save-our-civilization/
+perma_id: 202001091613
+redirect_from:
+- /202001091613/
 categories:
 - Articles
+- Archives
 tags:
 - Climate change
 - Environment

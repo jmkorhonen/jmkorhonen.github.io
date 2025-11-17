@@ -1,9 +1,13 @@
 ---
-title: 'Why Sustainable Societies Must Be Democratic'
-date: 2025-10-30
+title: Why Sustainable Societies Must Be Democratic
+date: 2025-10-30 Thu 14:46
 permalink: /posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic/
+perma_id: 202510301446
+redirect_from:
+- 202510301446
 categories:
-  - Articles
+- Articles
+- Archives
 tags:
   - Democracy
   - Sustainability

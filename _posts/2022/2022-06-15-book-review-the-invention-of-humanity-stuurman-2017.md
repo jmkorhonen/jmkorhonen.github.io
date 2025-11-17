@@ -1,10 +1,13 @@
 ---
-title: 'Book review: The Invention of Humanity (Stuurman 2017)'
-date: 2022-06-15
+title: "Book review: The Invention of Humanity (Stuurman 2017)"
+date: 2022-06-15 Wed 13:08
 permalink: /posts/2022/2022-06-15-book-review-the-invention-of-humanity-stuurman-2017/
+perma_id: 202206151308
+redirect_from:
+- /202206151308/
 categories:
 - Articles
-- Notes
+- Archives
 tags:
   - Reviews
   - Inequality

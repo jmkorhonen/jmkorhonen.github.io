@@ -1,10 +1,13 @@
 ---
-title: 'On the Kremlins Imperialism'
-date: 2022-02-23
+title: "On the Kremlin's Imperialism"
+date: 2022-02-23 Wed 11:00
 permalink: /posts/2022/2022-02-23-on-the-kremlins-imperialism/
+perma_id: 202202231100
+redirect_from:
+- /202202231100/
 categories:
 - Articles
-- Archive, Twitter
+- Archives
 tags:
 - Politics
 - Imperialism
@@ -15,8 +18,8 @@ tags:
 - Philosophy
 - Nordics
 - Finland
+- Archived from Twitter
 ---
-
 Greetings from a Finnish leftist! The international situation has apparently left many people in the English-speaking countries confused. I originally wrote [this thread in Twitter](https://twitter.com/jmkorhonen/status/1496047631969234944?s=20&t=8tJNrzJHMcQHyeEoXMdckQ) in the hopes of sharing a perspective I believe is widely although certainly not universally shared in Finland, most leftists included. This is a slightly edited version, for clarity.
 
 What we see happening in Ukraine right now is, to put it bluntly, Russian (or more precisely, the Kremlin’s) imperialism. If no other evidence convinces you, I beseech you to read [a translation of Putin’s speech](http://en.kremlin.ru/events/president/transcripts/67828) on 21st February 2022. He rails about NATO, but pay attention to how he is talking about Ukraine, effectively denying its right to independence and negating the agency of its citizens.
@@ -85,4 +88,4 @@ Thank you all for reading, and in solidarity from Finland!
 
 PS. For evidence that the above represents a widespread sentiment even among the Finnish left (with the exception of being openly pro-NATO, where I’m an early adopter), [see for instance this recent editorial of the People’s News](https://www.kansanuutiset.fi/artikkeli/4691306-euroopassa-on-yksi-sodanlietsoja-vladimir-putin), the Finnish newspaper traditionally close to the Left Alliance. It lays the facts as I too see them: right now there is one warmonger in Europe, and his name is Putin.
 
-*Based on my Twitter thread that gained some traction, originally published at [jmkorhonen.net](https://jmkorhonen.net/2022/02/23/on-the-kremlins-imperialism/).*
+*Based on my Twitter thread that gained some traction, originally published at [jmkorhonen.net](https://jmkorhonen.net/2022/02/23/on-the-kremlins-imperialism/). You can see the archived Twitter thread at my Bluesky archives here:* [@jmkorhonen-twitter.bsky.social on Bluesky](https://bsky.app/profile/jmkorhonen-twitter.bsky.social/post/3lcb5jbueho2q) 
