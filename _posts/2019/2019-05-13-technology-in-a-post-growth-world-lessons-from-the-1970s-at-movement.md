@@ -1,6 +1,9 @@
 ---
 title: "Technology in a Post-Growth World: Lessons from the 1970s AT Movement"
 date: 2019-05-13 Mon 16:26
+layout: single
+author_profile: false
+toc: true
 permalink: /posts/2019/2019-05-13-technology-in-a-post-growth-world-lessons-from-the-1970s-at-movement/
 perma_id: "id201905131626"
 redirect_from:

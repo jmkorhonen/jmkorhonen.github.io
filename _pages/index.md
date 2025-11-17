@@ -1,13 +1,13 @@
 ---
 title: Index
 date: 2025-11-17 Mon 10:56
-layout: archive
+layout: single
+author_profile: false
+toc: true
 permalink: /index/
 perma_id: id202511171056
 redirect_from:
   - /id202511171056/
-author_profile: false
-toc: true
 published: true
 last_update: 2025-11-17 Mon 12:06
 modified:

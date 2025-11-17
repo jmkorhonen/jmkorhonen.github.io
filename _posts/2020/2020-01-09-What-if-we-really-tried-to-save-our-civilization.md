@@ -1,6 +1,9 @@
 ---
 title: "What if we really tried to save our civilization? An introduction to Plan B"
 date: 2020-01-09 Thu 16:13
+layout: single
+author_profile: false
+toc: true
 permalink: /posts/2020/2020-01-09-What-if-we-really-tried-to-save-our-civilization/
 perma_id: "id202001091613"
 redirect_from:

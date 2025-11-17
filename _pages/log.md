@@ -1,6 +1,8 @@
 ---
 title: Log
-layout: archive
+layout: single
+author_profile: false
+toc: true
 collection: log
 permalink: /log/
 author_profile: true

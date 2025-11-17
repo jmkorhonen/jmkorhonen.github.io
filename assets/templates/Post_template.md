@@ -5,6 +5,7 @@ permalink: /posts/{{date:YYYY}}/{{title}}/
 perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
 - /id{{date:YYYYMMDDHHmm}}
+layout: single
 author_profile: false
 toc: true
 categories:

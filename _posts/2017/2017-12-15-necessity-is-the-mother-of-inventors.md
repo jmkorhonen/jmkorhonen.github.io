@@ -1,6 +1,9 @@
 ---
 title: "Necessity is the mother of inventors (my PhD lecture, 12.12.2017)"
 date: 2017-12-15 Fri 12:39
+layout: single
+author_profile: false
+toc: true
 permalink: /posts/2017/2017-12-15-necessity-is-the-mother-of-inventors/
 perma_id: "id201712151239"
 redirect_from:

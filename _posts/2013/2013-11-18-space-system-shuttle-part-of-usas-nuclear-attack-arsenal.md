@@ -1,12 +1,13 @@
 ---
 title: Space system “Shuttle,” part of USA’s nuclear attack arsenal?
 date: 2013-11-18 Mon 17:49
+layout: single
+author_profile: false
+toc: true
 permalink: /posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal/
 perma_id: id201311181749
 redirect_from:
   - /id201311181749/
-author_profile: true
-toc: false
 categories:
   - Articles
   - Archives
@@ -17,7 +18,7 @@ tags:
   - Cold War
   - Nuclear Weapons
 published: true
-last_update: 2025-11-17 Mon 12:03
+last_update: 2025-11-17 Mon 12:38
 modified:
 ---
 The story of a white elephant colloquially known as the Space Shuttle is familiar to most students of the history of technology. The shuttle was originally touted as a cheap way to access space: being mostly reusable, it would have done for space travel the same what DC-3 did for air travel, i.e. open up the space for large-scale exploration and exploitation. 

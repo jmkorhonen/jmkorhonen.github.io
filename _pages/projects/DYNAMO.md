@@ -1,5 +1,8 @@
 ---
 title: "DYNAMO (Dynamic Modelling of Circular Economy)"
+layout: single
+author_profile: false
+toc: true
 permalink: /projects/DYNAMO/
 excerpt: "Short description of DYNAMO modelling project at Syke (2025-2028)"
 collection: projects

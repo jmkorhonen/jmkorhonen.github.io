@@ -1,6 +1,9 @@
 ---
 title: "On the Kremlin's Imperialism"
 date: 2022-02-23 Wed 11:00
+layout: single
+author_profile: false
+toc: true
 permalink: /posts/2022/2022-02-23-on-the-kremlins-imperialism/
 perma_id: "id202202231100"
 redirect_from:

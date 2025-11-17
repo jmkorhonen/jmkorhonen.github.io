@@ -1,13 +1,13 @@
 ---
 title: Notes Index
 date: 2025-11-14
-layout: archive
-collection: notes
-permalink: /notes/
+layout: single
 author_profile: false
 toc: true
+collection: notes
+permalink: /notes/
 published: true
-last_update: 2025-11-14 Fri 14:03
+last_update: 2025-11-17 Mon 12:40
 modified:
 ---
 This page serves as an index to my public notes and notebooks.

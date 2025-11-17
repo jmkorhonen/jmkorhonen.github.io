@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: single
+author_profile: false
+toc: true
 title: "Excel stuff"
 permalink: /Excel/
-author_profile: true
 ---
 Some Excel files and models I've done over the years, in Finnish and in English. Feel free to reuse and adapt. I take no responsibility for the results though :).
 

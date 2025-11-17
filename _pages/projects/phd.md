@@ -1,15 +1,15 @@
 ---
 title: My Ph.D. project (2010-2017)
 date: 2025-11-17 Mon 11:52
-layout: archive
+layout: single
+author_profile: false
+toc: true
 permalink: /projects/phd/
 perma_id: id202511171152
 redirect_from:
   - /id202511171152/
-author_profile: true
-toc: false
 published: true
-last_update: 2025-11-17 Mon 12:02
+last_update: 2025-11-17 Mon 12:41
 modified:
 ---
 Stuff related to my 2017 Ph.D. from Aalto University School of Economics.

@@ -1,12 +1,13 @@
 ---
 title: "What the necessity mothers: energy shortage and the development of copper smelting furnaces, 1900-1980"
 date: 2013-05-20 Mon 22:13
+layout: single
+author_profile: false
+toc: true
 permalink: /posts/2013/2013-05-20-what-the-necessity-mothers-energy-shortage-and-the-development-of-copper-smelting-furnaces-1900-1980/
 perma_id: id201305202213
 redirect_from:
   - /id201305202213/
-author_profile: false
-toc: true
 categories:
   - Articles
   - Archives
@@ -19,7 +20,7 @@ tags:
   - Technology
   - Innovations
 published: true
-last_update: 2025-11-17 Mon 12:03
+last_update: 2025-11-17 Mon 12:38
 modified:
 ---
 An old adage tells us that necessity is the mother of invention. But if necessity were the prime mover of invention, why, then, there are so many really nifty technologies – say, antigravity – that would be obviously useful, yet no one has invented them yet?
