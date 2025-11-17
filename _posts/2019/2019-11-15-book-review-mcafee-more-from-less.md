@@ -2,9 +2,9 @@
 title: 'Book review: McAfee (2019), More from Less'
 date: 2019-11-15 Fri 11:44
 permalink: /posts/2019/2019-11-15-book-review-mcafee-more-from-less/
-perma_id: 201911151144
+perma_id: "201911151144"
 redirect_from:
-- /201911151144/
+- "/201911151144/"
 categories:
 - Articles
 - Archives

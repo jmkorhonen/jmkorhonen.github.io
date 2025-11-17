@@ -101,12 +101,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_pages/index.md",
+                    "file": "_pages/testpage.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "index"
+                  "title": "testpage"
                 }
               },
               {
@@ -268,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_pages/testpage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of testpage"
             }
           }
         ],
@@ -296,20 +296,9 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6f081e26489a12fb",
+  "active": "6ba8c4a358aff250",
   "lastOpenFiles": [
-    "_log/2022-05-19-bitcoin-tether-beanstalk.md",
-    "_pages/index.md",
-    "_pages/about.md",
-    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
-    "_notes/risk-classifying-commons-natural-disasters-existential.md",
-    "_posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal.md",
-    "_pages/notes.md",
-    "_pages/sitemap.md",
-    "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
-    "_log/2025-11-14.md",
     "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
-    "_posts/2022/2022-09-21-russian-industrial-mobilization-cannot-alter-the-outcome-of-the-war.md",
     "_posts/2022/2022-07-27-what-is-good-in-life-on-feedback-loops-possibly-leading-to-collapse.md",
     "_posts/2022/2022-06-15-book-review-the-invention-of-humanity-stuurman-2017.md",
     "_posts/2022/2022-02-23-on-the-kremlins-imperialism.md",
@@ -317,6 +306,17 @@
     "_posts/2020/2020-01-09-What-if-we-really-tried-to-save-our-civilization.md",
     "_posts/2019/2019-11-15-book-review-mcafee-more-from-less.md",
     "_posts/2019/2019-05-13-technology-in-a-post-growth-world-lessons-from-the-1970s-at-movement.md",
+    "_posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal.md",
+    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
+    "_notes/risk-classifying-commons-natural-disasters-existential.md",
+    "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
+    "_log/2025-11-14.md",
+    "_log/2022-05-19-bitcoin-tether-beanstalk.md",
+    "_pages/index.md",
+    "_pages/about.md",
+    "_pages/notes.md",
+    "_pages/sitemap.md",
+    "_posts/2022/2022-09-21-russian-industrial-mobilization-cannot-alter-the-outcome-of-the-war.md",
     "images/1986_soviet_civil_defence__booklet_weapons_of_USA_space_shuttle.webp",
     "images/Untitled",
     "assets/templates/Talks_template.md",

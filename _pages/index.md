@@ -3,13 +3,13 @@ title: Index
 date: 2025-11-17 Mon 10:56
 layout: archive
 permalink: /index/
-perma_id: 202511171056
+perma_id: "202511171056"
 redirect_from:
   - /202511171056/
 author_profile: false
 toc: true
 published: true
-last_update: 2025-11-17 Mon 11:06
+last_update: 2025-11-17 Mon 11:23
 modified:
 ---
 Topical index.

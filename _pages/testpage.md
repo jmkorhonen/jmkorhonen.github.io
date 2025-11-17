@@ -9,7 +9,10 @@ toc_sticky: false
 toc_label: Contents
 toc_icon: list
 published: true
-last_update: 2025-11-14 Fri 09:48
+perma_id: "202511120000"
+redirect_from:
+- "/202511120000/"
+last_update: 2025-11-17 Mon 11:23
 modified: 2025-11-14 Fri 09:18
 ---
 

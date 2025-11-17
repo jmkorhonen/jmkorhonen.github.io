@@ -2,7 +2,7 @@
 title: 2022-05-19 On Bitcoin, Tether, and Beanstalk
 date: 2022-05-19 Thu 07:39
 permalink: /log/2022/2022-05-19/
-perma_id: 202205190739
+perma_id: "202205190739"
 redirect_from:
   - /posts/2022/2022-05-19-bitcoin-tether-beanstalk/
   - /202205190739/
@@ -13,7 +13,7 @@ tags:
   - Bitcoin
   - Cryptocurrencies
   - Energy
-last_update: 2025-11-17 Mon 10:55
+last_update: 2025-11-17 Mon 11:20
 published: true
 modified: 2025-11-14
 ---
