@@ -1,0 +1,29 @@
+{%- comment -%}
+  Render license info based on front-matter.
+  Usage: {% include license.html %}
+{%- endcomment -%}
+
+{% if page.license %}
+  <div class="page__license" style="font-size:0.85em; margin-top:1rem; opacity:0.8;">
+    {% case page.license %}
+      {% when "CC-BY" %}
+        <p>This work is licensed under a
+        <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
+      {% when "CC-BY-SA" %}
+        <p>This work is licensed under a
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+
+      {% when "CC-BY-NC" %}
+        <p>This work is licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
+
+      {% when "Copyright" %}
+        <p>© {{ page.copyright_year | default: site.time | date: "%Y" }}
+        {{ page.author | default: site.author.name }}. All rights reserved.</p>
+
+      {% else %}
+        <p>{{ page.license }}</p>
+    {% endcase %}
+  </div>
+{% endif %}
