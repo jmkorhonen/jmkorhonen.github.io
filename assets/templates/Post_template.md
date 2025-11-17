@@ -2,9 +2,10 @@
 title: ""
 date: {{date:YYYY-MM-DD ddd}} {{time}}
 permalink: /posts/{{date:YYYY}}/{{title}}/
-perma_id: {{date:YYYYMMDDHHmm}}
+perma_id: "{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- /{{date:YYYYMMDDHHmm}}/
+- "/{{date:YYYYMMDDHHmm}}
+author_profile: false
 toc: true
 categories:
 

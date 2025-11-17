@@ -5,7 +5,8 @@ permalink: /posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-atta
 perma_id: "201311181749"
 redirect_from:
   - /201311181749/
-toc: true
+author_profile: true
+toc: false
 categories:
   - Articles
   - Archives
@@ -16,7 +17,7 @@ tags:
   - Cold War
   - Nuclear Weapons
 published: true
-last_update: 2025-11-17 Mon 11:21
+last_update: 2025-11-17 Mon 11:29
 modified:
 ---
 The story of a white elephant colloquially known as the Space Shuttle is familiar to most students of the history of technology. The shuttle was originally touted as a cheap way to access space: being mostly reusable, it would have done for space travel the same what DC-3 did for air travel, i.e. open up the space for large-scale exploration and exploitation. 

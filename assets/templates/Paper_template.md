@@ -6,16 +6,16 @@ excerpt: ""
 categories:
   - manuscripts
 permalink: /publication/{{title}}
-perma_id: {{date:YYYYMMDDHHmm}}
+perma_id: "{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- /{{date:YYYYMMDDHHmm}}/
+- "/{{date:YYYYMMDDHHmm}}
 venue: Journal 1
 slidesurl: https://jmkorhonen.github.io/files/presentations/{{title}}.pdf
 paperurl: https://jmkorhonen.github.io/files/publications/{{title}}.pdf
 bibtexurl: https://jmkorhonen.github.io/files/publications/{{title}}.bib
 citation: Korhonen, Janne M. ({{date:YYYY}}). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).
-author_profile: true
-toc: false
+author_profile: false
+toc: true
 tags:
 
 published: false
