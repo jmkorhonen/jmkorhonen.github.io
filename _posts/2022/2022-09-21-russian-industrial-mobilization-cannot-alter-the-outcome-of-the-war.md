@@ -2,9 +2,9 @@
 title: 'Russian industrial mobilization cannot alter the outcome of the war'
 date: 2022-09-21 Wed 14:44
 permalink: /posts/2022/2022-09-21-russian-industrial-mobilization-cannot-alter-the-outcome-of-the-war/
-perma_id: 202209211444
+perma_id: "id202209211444"
 redirect_from:
-- /202209211444/
+- "/id202209211444/"
 categories:
 - Articles
 - Archives

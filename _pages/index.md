@@ -3,13 +3,13 @@ title: Index
 date: 2025-11-17 Mon 10:56
 layout: archive
 permalink: /index/
-perma_id: "202511171056"
+perma_id: id202511171056
 redirect_from:
-  - /202511171056/
+  - /id202511171056/
 author_profile: false
 toc: true
 published: true
-last_update: 2025-11-17 Mon 11:23
+last_update: 2025-11-17 Mon 12:03
 modified:
 ---
 Topical index.
@@ -23,6 +23,10 @@ Topical index.
 #### On extinction risk, commons risk, and "natural" disasters (22.5.2022)
 ## History of Technology
 #### [Space system “Shuttle,” part of USA’s nuclear attack arsenal? (18.11.2013)](/posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal/) 
+
+### My Ph.D. research
+*Main page: [My Ph.D. project (2010-2017)](/projects/phd/)*
+#### [Necessity is the mother of inventors (my PhD lecture, 12.12.2017)](/posts/2017/2017-12-15-necessity-is-the-mother-of-inventors/)
 
 ## Space
 

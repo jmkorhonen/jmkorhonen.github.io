@@ -2,9 +2,9 @@
 title: Talk on Relevant Topic in Your Field
 date: {{date:YYYY-MM-DD ddd}} {{time}}
 permalink: /talks/{{title}}
-perma_id: "{{date:YYYYMMDDHHmm}}"
+perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- "/{{date:YYYYMMDDHHmm}}
+- /id{{date:YYYYMMDDHHmm}}
 venue: UC San Francisco, Department of Testing
 location: San Francisco, CA, USA
 slidesurl: https://jmkorhonen.github.io/files/presentations/{{title}}.pdf

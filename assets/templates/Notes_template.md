@@ -2,9 +2,9 @@
 title: ""
 date: {{date:YYYY-MM-DD ddd}} {{time}}
 permalink: /notes/{{title}}/
-perma_id: "{{date:YYYYMMDDHHmm}}"
+perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- "/{{date:YYYYMMDDHHmm}}
+- /id{{date:YYYYMMDDHHmm}}
 author_profile: false
 toc: true
 categories:

@@ -2,5 +2,6 @@
   "propertiesInDocument": "source",
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "smartIndentList": true
 }

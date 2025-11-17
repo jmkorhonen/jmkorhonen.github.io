@@ -2,9 +2,9 @@
 title: Space system “Shuttle,” part of USA’s nuclear attack arsenal?
 date: 2013-11-18 Mon 17:49
 permalink: /posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal/
-perma_id: "201311181749"
+perma_id: id201311181749
 redirect_from:
-  - /201311181749/
+  - /id201311181749/
 author_profile: true
 toc: false
 categories:
@@ -17,7 +17,7 @@ tags:
   - Cold War
   - Nuclear Weapons
 published: true
-last_update: 2025-11-17 Mon 11:29
+last_update: 2025-11-17 Mon 12:03
 modified:
 ---
 The story of a white elephant colloquially known as the Space Shuttle is familiar to most students of the history of technology. The shuttle was originally touted as a cheap way to access space: being mostly reusable, it would have done for space travel the same what DC-3 did for air travel, i.e. open up the space for large-scale exploration and exploitation. 
@@ -42,7 +42,7 @@ To date, there is no evidence whatsoever that such mission was even seriously co
 
 One of the legacies was the Soviet “Buran” shuttle program. Apparently, Buran got built and largely resembled the U.S. shuttle simply because the Soviets could not understand why the United States was wasting so much money on the Space Shuttle; however, Buran really was a weapon, with a planned capability to drop up to 20 nuclear bombs from orbit. 
 
-![[1986_soviet_civil_defence__booklet_weapons_of_USA_space_shuttle.webp]]
+![1986 Soviet Civil Defence booklet spread](/images/1986_soviet_civil_defence__booklet_weapons_of_USA_space_shuttle.webp)
 
 Another legacy is the image above. Taken from a Soviet 1986 [civil defense booklet](http://bunker-datacenter.com/plakat.go/), it illustrates the “nuclear attack arsenal of the USA.” Prominently portrayed alongside MX missile is the “space system ‘Shuttle.’” In other words, the Soviets were so certain that the white elephant was simply a weapon in disguise that they printed it to a recognition guide!
 
@@ -50,10 +50,10 @@ Many thanks to NAJ Taylor and Alex Wellerstein for bringing this to my attention
 
 ## References
 
-[http://www.buran.su/](http://www.buran.su/) – info about Buran’s combat role. See also Astronautix entry on Buran: http://www.astronautix.com/craft/buran.htm
+[http://www.buran.su/](http://www.buran.su/) – info about Buran’s combat role. See also [Encyclopedia Astronautica entry on Buran](http://www.astronautix.com/b/buran.html).
 
 Garber, S. J. (2002). _Birds of a Feather? How Politics and Culture Affected the Designs of the U.S. Space Shuttle and the Soviet Buran_. Master’s thesis, Virginia Tech. Retrieved from [http://scholar.lib.vt.edu/theses/available/etd-01282002-104138/unrestricted/birdsfinalcomplete4.pdf](http://scholar.lib.vt.edu/theses/available/etd-01282002-104138/unrestricted/birdsfinalcomplete4.pdf)
 
 [http://bunker-datacenter.com/plakat.go/](http://bunker-datacenter.com/plakat.go/) – Hi-res scan of a Soviet 1986 civil defense booklet
 
-*First published at [jmkorhonen.net.](https://jmkorhonen.net/2013/11/18/space-system-shuttle-part-of-usas-nuclear-attack-arsenal/)*
+*First published at [jmkorhonen.net.](https://jmkorhonen.net/2013/11/18/space-system-shuttle-part-of-usas-nuclear-attack-arsenal/)*.
