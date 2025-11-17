@@ -1,5 +1,8 @@
 ---
 title: "Horton (2023): Large Language Models as Simulated Economic Agents"
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 date: 2025-11-12 Wed 15:14
 permalink: /notes/summary-horton-2023-large-language-models-as-simulated-economic-agents/
 perma_id: id202511121514
@@ -19,7 +22,7 @@ tags:
   - Economics
   - Modelling, Agent-Based
   - Project DYNAMO, Digi2n
-last_update: 2025-11-17 Mon 12:02
+last_update: 2025-11-17 Mon 12:49
 modified: 2025-11-14
 ---
 [Horton (2023)](https://doi.org/10.48550/arXiv.2301.07543) proposes simply and modestly using LLMs as computational analogues to *"homo economicus,"* or as *"homo silicus"*, to explore theoretical scenarios and reveal qualitative behavioral patterns that are similar to human experiments. The preprint also contains a cogent response to usual criticisms.

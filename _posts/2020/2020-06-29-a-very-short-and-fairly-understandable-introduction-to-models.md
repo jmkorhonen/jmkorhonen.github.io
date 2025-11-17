@@ -1,6 +1,9 @@
 ---
 title: A Very Short and Fairly Understandable Introduction to Models
 date: 2020-06-29 Mon 14:27
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 permalink: /posts/2020/2020-06-29-a-very-short-and-fairly-understandable-introduction-to-models/
 perma_id: "id202006291427"
 redirect_from:

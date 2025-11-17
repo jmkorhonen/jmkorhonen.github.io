@@ -1,6 +1,9 @@
 ---
 title: "MapEditor - a simple, customizable GIS input tool"
 date: 2025-11-04
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 permalink: /projects/MapEditor/
 excerpt: "Simple HTML/JavaScript tool for inputting location-based data and exporting it to Excel or GeoJSON. Easily customizable."
 collection: projects

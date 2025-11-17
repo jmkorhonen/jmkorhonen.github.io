@@ -5,6 +5,9 @@ permalink: /posts/{{date:YYYY}}/{{title}}/
 perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
 - /id{{date:YYYYMMDDHHmm}}
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: {{date:YYYY}}
 layout: single
 author_profile: false
 toc: true

@@ -14,6 +14,10 @@ slidesurl: https://jmkorhonen.github.io/files/presentations/{{title}}.pdf
 paperurl: https://jmkorhonen.github.io/files/publications/{{title}}.pdf
 bibtexurl: https://jmkorhonen.github.io/files/publications/{{title}}.bib
 citation: Korhonen, Janne M. ({{date:YYYY}}). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: {{date:YYYY}}
+layout: single
 author_profile: false
 toc: true
 tags:

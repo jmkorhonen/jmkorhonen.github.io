@@ -1,6 +1,9 @@
 ---
 title: "What if we really tried to save our civilization? An introduction to Plan B"
 date: 2020-01-09 Thu 16:13
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true

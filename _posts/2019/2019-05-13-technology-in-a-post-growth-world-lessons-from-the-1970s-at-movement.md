@@ -1,6 +1,9 @@
 ---
 title: "Technology in a Post-Growth World: Lessons from the 1970s AT Movement"
 date: 2019-05-13 Mon 16:26
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true

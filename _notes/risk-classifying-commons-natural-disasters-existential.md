@@ -1,8 +1,11 @@
 ---
 title: On extinction risk, commons risk, and "natural" disasters
 date: 2022-05-22 Fri 11:53
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 permalink: /notes/risk-classifying-commons-natural-disasters-existential/
-perma_id: "id202205221153"
+perma_id: id202205221153
 redirect_from:
   - /posts/2022/2022-05-22-on-extinction-risk-commons-risk-natural-disasters/
   - /id202205221153/
@@ -13,7 +16,7 @@ tags:
   - Risks, Existential
   - Collapse
   - Research
-last_update: 2025-11-17 Mon 12:02
+last_update: 2025-11-17 Mon 12:49
 modified: 2025-11-14
 ---
 

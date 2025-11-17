@@ -2,6 +2,9 @@
 title: "DYNAMO Link Index"
 permalink: /projects/DYNAMO/DYNAMO-index/
 excerpt: "Up to date links to DYNAMO project pages"
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 collection: projects
 tags:
 - Circular Economy

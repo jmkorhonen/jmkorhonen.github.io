@@ -1,6 +1,9 @@
 ---
 title: 'DYNAMO Literature Review: Summarizing instructions for LLMs, version 2025-09-17'
 date: 2025-09-17
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 permalink: /projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17/
 tags:
 - LLMs

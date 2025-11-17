@@ -1,6 +1,9 @@
 ---
 title: 'Russian industrial mobilization cannot alter the outcome of the war'
 date: 2022-09-21 Wed 14:44
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true

@@ -7,6 +7,9 @@ perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
 - /id{{date:YYYYMMDDHHmm}}
 collection: portfolio
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: {{date:YYYY}}
 author_profile: true
 categories:
 - Showcase

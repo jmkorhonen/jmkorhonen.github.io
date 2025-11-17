@@ -1,6 +1,9 @@
 ---
 title: 'Book review: McAfee (2019), More from Less'
 date: 2019-11-15 Fri 11:44
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true

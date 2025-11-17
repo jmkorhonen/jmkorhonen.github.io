@@ -1,6 +1,9 @@
 ---
 title: 'LLM summaries of research papers, WIP version 2025-11-03'
 date: 2025-11-03
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 permalink: /projects/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03/
 tags:
 - LLMs

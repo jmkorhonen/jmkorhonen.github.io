@@ -1,6 +1,9 @@
 ---
 title: "What is Good in Life? On feedback loops possibly leading to a collapse"
 date: 2022-07-27 Fri 11:55
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 permalink: /posts/2022/2022-07-27-what-is-good-in-life-on-feedback-loops-possibly-leading-to-collapse/
 perma_id: "id202207271155"
 redirect_from:

@@ -1,6 +1,9 @@
 ---
 title: "On the Kremlin's Imperialism"
 date: 2022-02-23 Wed 11:00
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true

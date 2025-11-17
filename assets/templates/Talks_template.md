@@ -9,6 +9,9 @@ venue: UC San Francisco, Department of Testing
 location: San Francisco, CA, USA
 slidesurl: https://jmkorhonen.github.io/files/presentations/{{title}}.pdf
 citation: Korhonen, Janne M. ({{date:YYYY}}). &quot;Presentation.&quot;
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: {{date:YYYY}}
 author_profile: true
 toc: false
 collection: talks

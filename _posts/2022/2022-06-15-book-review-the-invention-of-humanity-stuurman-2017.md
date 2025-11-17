@@ -1,6 +1,9 @@
 ---
 title: "Book review: The Invention of Humanity (Stuurman 2017)"
 date: 2022-06-15 Wed 13:08
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 permalink: /posts/2022/2022-06-15-book-review-the-invention-of-humanity-stuurman-2017/
 perma_id: "id202206151308"
 redirect_from:

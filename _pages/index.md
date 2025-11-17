@@ -1,6 +1,9 @@
 ---
 title: Index
 date: 2025-11-17 Mon 10:56
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true
@@ -9,7 +12,7 @@ perma_id: id202511171056
 redirect_from:
   - /id202511171056/
 published: true
-last_update: 2025-11-17 Mon 12:06
+last_update: 2025-11-17 Mon 12:50
 modified:
 ---
 Topical index.

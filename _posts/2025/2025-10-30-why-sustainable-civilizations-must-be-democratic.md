@@ -1,5 +1,8 @@
 ---
 title: Why Sustainable Societies Must Be Democratic
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true

@@ -1,9 +1,12 @@
 ---
+title: "Excel stuff"
+permalink: /Excel/
 layout: single
 author_profile: false
 toc: true
-title: "Excel stuff"
-permalink: /Excel/
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 ---
 Some Excel files and models I've done over the years, in Finnish and in English. Feel free to reuse and adapt. I take no responsibility for the results though :).
 

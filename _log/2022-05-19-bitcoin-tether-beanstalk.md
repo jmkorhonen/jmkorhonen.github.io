@@ -1,6 +1,9 @@
 ---
 title: 2022-05-19 On Bitcoin, Tether, and Beanstalk
 date: 2022-05-19 Thu 07:39
+author: Janne M. Korhonen
+license: CC-BY-SA
+copyright_year: 2025
 permalink: /log/2022/2022-05-19/
 perma_id: id202205190739
 redirect_from:
@@ -13,7 +16,7 @@ tags:
   - Bitcoin
   - Cryptocurrencies
   - Energy
-last_update: 2025-11-17 Mon 12:02
+last_update: 2025-11-17 Mon 12:49
 published: true
 modified: 2025-11-14
 ---

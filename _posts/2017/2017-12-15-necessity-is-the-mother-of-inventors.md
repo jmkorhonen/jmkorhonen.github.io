@@ -1,6 +1,9 @@
 ---
 title: "Necessity is the mother of inventors (my PhD lecture, 12.12.2017)"
 date: 2017-12-15 Fri 12:39
+author: Janne M. Korhonen
+license: Copyright
+copyright_year: 2025
 layout: single
 author_profile: false
 toc: true
