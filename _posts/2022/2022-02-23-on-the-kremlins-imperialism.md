@@ -14,6 +14,7 @@ redirect_from:
 categories:
 - Articles
 - Archives
+- Archives - Twitter
 tags:
 - Politics
 - Imperialism
@@ -24,7 +25,6 @@ tags:
 - Philosophy
 - Nordics
 - Finland
-- Archived from Twitter
 ---
 Greetings from a Finnish leftist! The international situation has apparently left many people in the English-speaking countries confused. I originally wrote [this thread in Twitter](https://twitter.com/jmkorhonen/status/1496047631969234944?s=20&t=8tJNrzJHMcQHyeEoXMdckQ) in the hopes of sharing a perspective I believe is widely although certainly not universally shared in Finland, most leftists included. This is a slightly edited version, for clarity.
 

@@ -1,0 +1,7 @@
+filters:
+  and:
+    - published == false
+views:
+  - type: table
+    name: Table
+    sort: []

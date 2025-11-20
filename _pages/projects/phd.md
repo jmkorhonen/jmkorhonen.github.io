@@ -12,7 +12,7 @@ perma_id: id202511171152
 redirect_from:
   - /id202511171152/
 published: true
-last_update: 2025-11-17 Mon 12:48
+last_update: 2025-11-20 Thu 11:21
 modified:
 ---
 Stuff related to my 2017 Ph.D. from Aalto University School of Economics.

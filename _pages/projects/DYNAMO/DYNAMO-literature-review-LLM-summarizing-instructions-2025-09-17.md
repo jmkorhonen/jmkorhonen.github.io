@@ -8,10 +8,11 @@ permalink: /projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instruction
 tags:
 - LLMs
 - AI
-- DYNAMO
-- projects
-- research
-- reviews
+- Research
+- Modelling
+- Modelling - Agent-Based Models
+- Project DYNAMO
+- Reviews
 ---
 # DYNAMO Literature Review Summarizing Instructions
 

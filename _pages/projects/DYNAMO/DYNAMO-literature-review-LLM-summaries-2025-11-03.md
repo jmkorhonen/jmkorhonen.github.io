@@ -8,12 +8,11 @@ permalink: /projects/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03/
 tags:
 - LLMs
 - AI
-- DYNAMO
-- projects
-- research
-- modelling
-- ABMs
-- reviews
+- Project DYNAMO
+- Research
+- Modelling
+- Modelling - Agent-Based Models
+- Reviews
 ---
 
 *This is a WIP of standardized LLM output summaries for [DYNAMO](https://jmkorhonen.github.io/projects/DYNAMO/) literature review.*

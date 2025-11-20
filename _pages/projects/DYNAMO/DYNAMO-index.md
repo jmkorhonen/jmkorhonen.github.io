@@ -8,10 +8,11 @@ copyright_year: 2025
 collection: projects
 tags:
 - Circular Economy
-- research
-- modelling
-- ABMs
-- index
+- Research
+- Modelling
+- Modelling - Agent-Based Models
+- Project DYNAMO
+- Index Pages
 ---
 Main project page: [DYNAMO](https://jmkorhonen.github.io/projects/DYNAMO/)
 

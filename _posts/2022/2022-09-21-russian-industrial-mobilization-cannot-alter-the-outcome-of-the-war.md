@@ -20,7 +20,7 @@ tags:
 - Russia
 - Ukraine
 - Defence
-- Industrial Mobilization
+- Mobilization - Industrial
 ---
 *Not my best prediction. I underestimated just how much* Russian *blood the Kremlin is willing to shed, and how stingy the West is going to be with weapons and aid to Ukraine. (2025-11-03)*
 

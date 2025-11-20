@@ -16,11 +16,11 @@ tags:
   - LLMs
   - AI
   - Research
-  - Project DYNAMO, Digi2n
+  - Project DYNAMO - Digi2n
   - Modelling
-  - Modelling, Agent-Based Models
+  - Modelling - Agent-Based Models
   - Articles
-last_update: 2025-11-17 Mon 12:49
+last_update: 2025-11-20 Thu 11:18
 modified: 2025-11-14
 ---
 This post discusses the use of large language models (LLMs) as synthetic human responders and agents in various research contexts. It includes examples of LLMs simulating human decision-making, generating personas, and their application in agent-based models.

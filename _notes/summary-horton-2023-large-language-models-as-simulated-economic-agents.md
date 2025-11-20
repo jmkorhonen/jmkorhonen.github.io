@@ -13,16 +13,16 @@ categories:
   - Notes
 tags:
   - Research
-  - Research Methodology
+  - Research Methodologies
   - Summaries
   - AI
   - LLMs
   - Technology
   - Modelling
   - Economics
-  - Modelling, Agent-Based
-  - Project DYNAMO, Digi2n
-last_update: 2025-11-17 Mon 12:49
+  - Modelling - Agent-Based
+  - Project DYNAMO - Digi2n
+last_update: 2025-11-20 Thu 11:19
 modified: 2025-11-14
 ---
 [Horton (2023)](https://doi.org/10.48550/arXiv.2301.07543) proposes simply and modestly using LLMs as computational analogues to *"homo economicus,"* or as *"homo silicus"*, to explore theoretical scenarios and reveal qualitative behavioral patterns that are similar to human experiments. The preprint also contains a cogent response to usual criticisms.

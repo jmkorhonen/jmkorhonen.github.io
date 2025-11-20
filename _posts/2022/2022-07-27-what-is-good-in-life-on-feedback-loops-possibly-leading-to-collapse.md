@@ -15,7 +15,7 @@ tags:
 - Collapse
 - Philosophy
 - Sustainability
-- Existential risks
+- Risks - Existential
 - Environment
 - Polycrisis
 - Limits

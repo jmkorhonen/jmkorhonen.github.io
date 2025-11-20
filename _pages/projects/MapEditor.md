@@ -8,8 +8,8 @@ permalink: /projects/MapEditor/
 excerpt: "Simple HTML/JavaScript tool for inputting location-based data and exporting it to Excel or GeoJSON. Easily customizable."
 collection: projects
 tags:
-- research
-- tools
+- Research
+- Tools
 - GIS
 - JavaScript
 ---

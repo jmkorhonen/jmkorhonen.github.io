@@ -13,10 +13,10 @@ categories:
   - Notes
   - Archives
 tags:
-  - Risks, Existential
+  - Risks - Existential
   - Collapse
   - Research
-last_update: 2025-11-17 Mon 12:49
+last_update: 2025-11-20 Thu 11:19
 modified: 2025-11-14
 ---
 
