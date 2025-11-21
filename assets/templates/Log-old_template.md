@@ -1,15 +1,15 @@
 ---
-title: {{date:YYYY-MM-DD ddd}} 
-date: {{date:YYYY-MM-DD ddd HH:mm}}
-permalink: /log/{{date:YYYY}}/{{date:YYYY-MM-DD}}/
-perma_id: "id{{date:YYYYMMDDHHmm}}"
+title: {{title}} 
+date: {{title}}
+permalink: /log/20 /{{title}} /
+perma_id: "id{{title}}"
 redirect_from:
-- /id{{date:YYYYMMDDHHmm}}/
+- /id{{title}}/
 aliases:
-- id{{date:YYYYMMDDHHmm}}
+- id{{title}}
 author: Janne M. Korhonen
 license: Copyright
-copyright_year: {{date:YYYY}}
+copyright_year: {{title}} 
 layout: single
 author_profile: false
 toc: true

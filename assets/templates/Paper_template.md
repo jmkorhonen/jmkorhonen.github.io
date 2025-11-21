@@ -1,6 +1,6 @@
 ---
 title: ""
-date: {{date:YYYY-MM-DD ddd}} {{time}}
+date: {{date:YYYY-MM-DD ddd HH:mm}}
 collection: publications
 excerpt: ""
 categories:
@@ -9,6 +9,8 @@ permalink: /publication/{{title}}
 perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
 - /id{{date:YYYYMMDDHHmm}}
+aliases:
+- id{{date:YYYYMMDDHHmm}}
 venue: Journal 1
 slidesurl: https://jmkorhonen.github.io/files/presentations/{{title}}.pdf
 paperurl: https://jmkorhonen.github.io/files/publications/{{title}}.pdf
