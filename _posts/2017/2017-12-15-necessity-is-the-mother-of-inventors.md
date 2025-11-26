@@ -13,6 +13,7 @@ redirect_from:
 - "/id201712151239/"
 categories:
 - Articles
+- Archives
 tags:
 - Research
 - Scarcities

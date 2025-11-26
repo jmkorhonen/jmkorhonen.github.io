@@ -129,12 +129,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_log/2024/2024-11-25.md",
+                    "file": "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2024-11-25"
+                  "title": "2017-12-15-necessity-is-the-mother-of-inventors"
                 }
               },
               {
@@ -178,12 +178,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "assets/templates/Log_template.md",
+                    "file": "assets/templates/Post_template.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Log_template"
+                  "title": "Post_template"
                 }
               },
               {
@@ -192,12 +192,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_log/2025/2025-11-09.md",
+                    "file": "_posts/2017/2017-12-05-finland-is-the-land-of-personal-freedom.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-11-09"
+                  "title": "2017-12-05-finland-is-the-land-of-personal-freedom"
                 }
               },
               {
@@ -339,13 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_log/2025/2025-11-09.md",
+                "file": "_posts/2017/2017-12-05-finland-is-the-land-of-personal-freedom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-09"
+              "title": "Outline of 2017-12-05-finland-is-the-land-of-personal-freedom"
             }
           }
         ],
@@ -369,25 +369,29 @@
   },
   "active": "98e04b571761ebc9",
   "lastOpenFiles": [
+    "assets/templates/Post_template.md",
+    "assets/templates/Log_template.md",
+    "_posts/2017/2017-12-05-finland-is-the-land-of-personal-freedom.md",
+    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+    "_posts/2022/2022-02-23-on-the-kremlins-imperialism.md",
     "_log/2024/2024-11-25.md",
+    "_log/2025/2025-11-26.md",
     "_log/2025/2025-11-20.md",
-    "_log/2024",
+    "_log/2022/2022-07-27.md",
     "_log/2025/2025-11-09.md",
+    "_log/2024",
     "_notes/digi2n-LLM-use-cases-in-research.md",
     "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
     "_pages/projects/DYNAMO/DYNAMO-index.md",
     "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17.md",
     "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03.md",
-    "assets/templates/Log_template.md",
     "assets/templates/Log-old_template.md",
     "assets/templates/Notes_template.md",
     "assets/templates/Page_template.md",
     "assets/templates/Paper_template.md",
     "assets/templates/Portfolio_template.md",
-    "assets/templates/Post_template.md",
     "assets/templates/Talks_template.md",
     "_posts/2023/2023-02-06-why-finland-joined-nazis-and-why-democracy-requires-solidarity.md",
-    "_log/2022/2022-07-27.md",
     "images/meme-wojak-psycho-wojak.jpg",
     "images.md",
     "images/dirt-road-summer-forest-typical-finnish-countryside.jpg",
@@ -396,10 +400,6 @@
     "_log/2022",
     "_log/2025",
     "_pages/Excel.md",
-    "_pages/projects/phd.md",
-    "_pages/projects/MapEditor.md",
-    "_pages/projects/DYNAMO/ODD2020-protocol-2025-09-11.md",
-    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
     "WIP/Unpublished pages.base",
     "WIP",
     "_posts/2023",
