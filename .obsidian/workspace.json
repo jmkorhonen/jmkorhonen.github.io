@@ -87,12 +87,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_log/2025/2025-11-26.md",
+                    "file": "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-11-26"
+                  "title": "summary-horton-2023-large-language-models-as-simulated-economic-agents"
+                }
+              },
+              {
+                "id": "3c14f1ab8a80b85b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_log/2025/2025-11-28.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11-28"
                 }
               },
               {
@@ -101,12 +115,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+                    "file": "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2017-12-15-necessity-is-the-mother-of-inventors"
+                  "title": "2025-10-30-why-sustainable-civilizations-must-be-democratic"
                 }
               },
               {
@@ -124,7 +138,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 7
           },
           {
             "id": "fd4f14b19c6a42e1",
@@ -164,12 +178,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_posts/2017/2017-12-05-finland-is-the-land-of-personal-freedom.md",
+                    "file": "_log/2025/2025-12-01.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2017-12-05-finland-is-the-land-of-personal-freedom"
+                  "title": "2025-12-01"
                 }
               },
               {
@@ -247,7 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 620.5
   },
   "right": {
     "id": "0bc5360c85fe39ae",
@@ -311,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_log/2025/2025-11-26.md",
+                "file": "_log/2025/2025-12-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-26"
+              "title": "Outline of 2025-12-01"
             }
           }
         ],
@@ -339,16 +353,33 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "366715fae5299237",
+  "active": "ea76ccc622be1b15",
   "lastOpenFiles": [
-    "_log/2025/2025-11-27.md",
+    "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-Will-Stancil.jpg",
+    "images/2025-12-01-Franklin-the-turtle-learns-about-Laws-of-Armed-Conflict-Shashank-Joshi.jpg",
+    "images/2025-12-01-Franklin-the-turtle-learns-about-the-Peleus-Trial.jpg",
+    "images/2025-12-01-Franklin-the-turtle-learns-about-Laws-of-Armed-Conflict-(Shashank-Joshi).jpg",
+    "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-(Will-Stancil).jpg",
+    "images/2025-12-01-Franklin-the-turtle-goes-to-the-Hague.jpg",
+    "_log/2025/2025-12-01.md",
+    "images/2025-12-01 Franklin the turtle learns about Laws of Armed Conflict (Shashank Joshi).jpg",
+    "images/2025-12-01 Franklin the turtle is prosecuted for War Crimes and Murder on the High Seas (Will Stancil).jpg",
+    "images/2025-12-01 Franklin the turtle learns about the Peleus Trial.jpg",
+    "images/2025-12-01-Franklin-the-turtle-targets-narco-terrorists-Pete-Hegseth.jpg",
+    "_log/2025/Untitled.md",
+    "_log/2025/2025-11-28.md",
+    "_notes/CE-circular-economy-indicators-and-measurements.md",
+    "_pages/projects/DYNAMO.md",
+    "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
+    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+    "_posts/2017/2017-12-05-finland-is-the-land-of-personal-freedom.md",
+    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
     "_log/2025/2025-11-26.md",
+    "_log/2025/2025-11-27.md",
     "images/WIA-KIA-ratios_from_300_BCE_to_2025.png",
     "_pages/projects/DYNAMO/DYNAMO-index.md",
     "_log/2025/2025-11-20.md",
     "_pages/log.md",
-    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
-    "_posts/2017/2017-12-05-finland-is-the-land-of-personal-freedom.md",
     "assets/templates/Post_template.md",
     "assets/templates/Log_template.md",
     "_posts/2022/2022-02-23-on-the-kremlins-imperialism.md",
@@ -361,22 +392,12 @@
     "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17.md",
     "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03.md",
     "assets/templates/Log-old_template.md",
-    "assets/templates/Notes_template.md",
-    "assets/templates/Page_template.md",
-    "assets/templates/Paper_template.md",
-    "assets/templates/Portfolio_template.md",
-    "assets/templates/Talks_template.md",
-    "_posts/2023/2023-02-06-why-finland-joined-nazis-and-why-democracy-requires-solidarity.md",
-    "images/meme-wojak-psycho-wojak.jpg",
-    "images.md",
-    "images/dirt-road-summer-forest-typical-finnish-countryside.jpg",
     "_log/2022",
     "_log/2025",
     "WIP/Unpublished pages.base",
     "WIP",
     "_posts/2023",
     "_includes/license.html",
-    "images/1986_soviet_civil_defence__booklet_weapons_of_USA_space_shuttle.webp",
     "images/Untitled",
     "_posts/2013/Untitled",
     "_posts/2013"

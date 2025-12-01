@@ -4,6 +4,9 @@ layout: single
 author_profile: false
 toc: true
 permalink: /projects/DYNAMO/
+perma_id: "id202511110900"
+redirect_from:
+- /id202511110900/
 excerpt: "Short description of DYNAMO modelling project at Syke (2025-2028)"
 collection: projects
 tags:
