@@ -4,207 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2e9c7d627b5973ac",
-        "type": "split",
+        "id": "c2847ac20643ad5e",
+        "type": "tabs",
         "children": [
           {
-            "id": "644e6c9ce7a0840a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fa016afe53256387",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "assets/templates/Post_template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Post_template"
-                }
+            "id": "a6a9806acea6bfc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "81fd5227c071c7dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "assets/templates/Portfolio_template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Portfolio_template"
-                }
-              },
-              {
-                "id": "40b29707ddbf8121",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_pages/testpage.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "testpage"
-                }
-              },
-              {
-                "id": "a07637031fcca4e3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "assets/templates/Talks_template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Talks_template"
-                }
-              },
-              {
-                "id": "7c202d9d5c56c12a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "assets/templates/Post_template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Post_template"
-                }
-              },
-              {
-                "id": "366715fae5299237",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "summary-horton-2023-large-language-models-as-simulated-economic-agents"
-                }
-              },
-              {
-                "id": "3c14f1ab8a80b85b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_log/2025/2025-11-28.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-11-28"
-                }
-              },
-              {
-                "id": "e9ab116c1332d307",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-10-30-why-sustainable-civilizations-must-be-democratic"
-                }
-              },
-              {
-                "id": "34aaa7d78ac455ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_pages/log.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "log"
-                }
-              }
-            ],
-            "currentTab": 7
+              "icon": "lucide-file",
+              "title": "digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis"
+            }
           },
           {
-            "id": "fd4f14b19c6a42e1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6f081e26489a12fb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_log/2025/2025-11-14.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-11-14"
-                }
+            "id": "3439d58903fb5f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "15618302cdbfd748",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "assets/templates/Post_template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Post_template"
-                }
+              "icon": "lucide-file",
+              "title": "digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis"
+            }
+          },
+          {
+            "id": "7ff99baad8867fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_log/2025/2025-12-11.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "98e04b571761ebc9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_log/2025/2025-12-01.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-12-01"
-                }
-              },
-              {
-                "id": "031d1e6c305142c3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2017-12-15-necessity-is-the-mother-of-inventors"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "2025-12-11"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,7 +156,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -325,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_log/2025/2025-12-01.md",
+                "file": "_log/2025/2025-12-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-01"
+              "title": "Outline of 2025-12-11"
             }
           }
         ],
@@ -353,11 +199,28 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "98e04b571761ebc9",
+  "active": "7ff99baad8867fce",
   "lastOpenFiles": [
+    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
+    "_log/2025/2025-12-11.md",
+    "_notes/digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis.md",
+    "_pages/projects/DYNAMO.md",
+    "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
+    "images/GABM-SD-EEIO_framework_2025-12-08_Slide5_conceptualizing_GABM.PNG",
+    "images/GABM-SD-EEIO_framework_2025-12-08_Slide11_The_Coupling_Workflow.PNG",
+    "_notes/CE-circular-economy-indicators-and-measurements.md",
+    "_pages/log.md",
+    "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
+    "_log/2025/2025-11-28.md",
+    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
+    "assets/templates/Post_template.md",
+    "assets/templates/Talks_template.md",
+    "_pages/testpage.md",
+    "assets/templates/Portfolio_template.md",
+    "_log/2025/2025-11-14.md",
+    "_log/2025/2025-12-01.md",
     "_pages/markdown.md",
     "_pages/guide_to_configuring_jekyll.md",
-    "_log/2025/2025-12-01.md",
     "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-Will-Stancil.jpg",
     "images/2025-12-01-Franklin-the-turtle-learns-about-Laws-of-Armed-Conflict-Shashank-Joshi.jpg",
     "images/2025-12-01-Franklin-the-turtle-learns-about-the-Peleus-Trial.jpg",
@@ -366,32 +229,15 @@
     "images/2025-12-01-Franklin-the-turtle-goes-to-the-Hague.jpg",
     "images/2025-12-01 Franklin the turtle learns about Laws of Armed Conflict (Shashank Joshi).jpg",
     "images/2025-12-01 Franklin the turtle is prosecuted for War Crimes and Murder on the High Seas (Will Stancil).jpg",
-    "images/2025-12-01 Franklin the turtle learns about the Peleus Trial.jpg",
-    "images/2025-12-01-Franklin-the-turtle-targets-narco-terrorists-Pete-Hegseth.jpg",
     "_log/2025/Untitled.md",
-    "_log/2025/2025-11-28.md",
-    "_notes/CE-circular-economy-indicators-and-measurements.md",
-    "_pages/projects/DYNAMO.md",
-    "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
-    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
     "_posts/2017/2017-12-05-finland-is-the-land-of-personal-freedom.md",
-    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
     "_log/2025/2025-11-26.md",
     "_log/2025/2025-11-27.md",
     "_pages/projects/DYNAMO/DYNAMO-index.md",
     "_log/2025/2025-11-20.md",
-    "_pages/log.md",
-    "assets/templates/Post_template.md",
     "assets/templates/Log_template.md",
     "_posts/2022/2022-02-23-on-the-kremlins-imperialism.md",
-    "_log/2024/2024-11-25.md",
-    "_log/2022/2022-07-27.md",
-    "_log/2025/2025-11-09.md",
     "_log/2024",
-    "_notes/digi2n-LLM-use-cases-in-research.md",
-    "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
-    "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17.md",
-    "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03.md",
     "_log/2022",
     "_log/2025",
     "WIP/Unpublished pages.base",
