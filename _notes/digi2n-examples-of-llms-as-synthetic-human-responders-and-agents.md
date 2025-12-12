@@ -10,17 +10,16 @@ redirect_from:
   - /posts/2025/2025-10-29-notes-examples-of-llms-as-synthetic-human-responders-and-agents/
   - /id202510291756/
 categories:
-  - Notebooks
+  - Notes
   - Archives
+  - Research
 tags:
   - LLMs
   - AI
-  - Research
-  - Project DYNAMO - Digi2n
-  - Modelling
-  - Modelling - Agent-Based Models
+  - Projects/DYNAMO/Digi2n
+  - Modelling/ABMs
   - Articles
-last_update: 2025-11-20 Thu 11:18
+last_update: 2025-12-12 Fri 13:15
 modified: 2025-11-14
 ---
 This post discusses the use of large language models (LLMs) as synthetic human responders and agents in various research contexts. It includes examples of LLMs simulating human decision-making, generating personas, and their application in agent-based models.

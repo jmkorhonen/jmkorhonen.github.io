@@ -14,16 +14,16 @@ redirect_from:
 categories:
   - Articles
   - Archives
+  - Research
 tags:
   - Energy
   - History of Technology
   - Scarcities
-  - Research
   - Finland
   - Technology
   - Innovations
 published: true
-last_update: 2025-11-17 Mon 12:47
+last_update: 2025-12-12 Fri 13:12
 modified:
 ---
 An old adage tells us that necessity is the mother of invention. But if necessity were the prime mover of invention, why, then, there are so many really nifty technologies – say, antigravity – that would be obviously useful, yet no one has invented them yet?

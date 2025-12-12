@@ -4,7 +4,7 @@ date: 2025-11-21 Fri 12:06
 permalink: /notes/digi2n-LLM-use-cases-in-research/
 perma_id: id202511211206
 redirect_from:
-  - /id202511211206
+  - /id202511211206/
 aliases:
   - id202511211206
 author: Janne M. Korhonen
@@ -17,7 +17,7 @@ categories:
   - Notes
 tags:
 published: false
-last_update: 2025-11-21 Fri 12:08
+last_update: 2025-12-12 Fri 13:22
 modified:
 ---
 ### Researchers measured greenwashing in 1 million Facebook ads by LLM-enabled system, found vast networks sharing pro-fossil fuel messages and targeted ads

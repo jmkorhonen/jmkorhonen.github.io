@@ -10,11 +10,11 @@ redirect_from:
 - /id202504010900/
 excerpt: "Short description of DYNAMO modelling project at Syke (2025-2028)"
 collection: projects
+categories:
+- Research
 tags:
 - Circular Economy
-- research
-- modelling
-- ABMs
+- Modelling/ABMs
 ---
 
 DYNAMO (Dynamic Modelling of Circular Economy) is a modelling project I've been doing at [Syke](https://www.syke.fi/en) since April 2025.

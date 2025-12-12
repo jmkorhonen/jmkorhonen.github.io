@@ -14,8 +14,8 @@ redirect_from:
 categories:
 - Articles
 - Archives
-tags:
 - Research
+tags:
 - Scarcities
 - Innovation
 - History of Technology

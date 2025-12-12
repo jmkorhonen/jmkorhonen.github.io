@@ -10,9 +10,9 @@ redirect_from:
 - "/id202006291427/"
 categories:
 - Archives
+- Research
 tags:
 - Modelling
-- Research
 - Philosophy
 ---
 

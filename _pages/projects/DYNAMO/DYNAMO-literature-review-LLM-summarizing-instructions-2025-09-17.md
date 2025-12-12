@@ -5,13 +5,13 @@ author: Janne M. Korhonen
 license: CC-BY-SA
 copyright_year: 2025
 permalink: /projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17/
+categories:
+- Research
 tags:
 - LLMs
 - AI
-- Research
-- Modelling
-- Modelling - Agent-Based Models
-- Project DYNAMO
+- Modelling/ABMs
+- Projects/DYNAMO
 - Reviews
 ---
 # DYNAMO Literature Review Summarizing Instructions

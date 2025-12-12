@@ -14,12 +14,12 @@ redirect_from:
 categories:
 - Articles
 - Archives
+- Research
 tags:
 - Climate change
 - Environment
 - Polycrisis
 - Industrial Mobilization
-- Research
 - World War II
 - Existential risks
 ---

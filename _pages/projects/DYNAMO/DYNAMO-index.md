@@ -6,13 +6,13 @@ author: Janne M. Korhonen
 license: CC-BY-SA
 copyright_year: 2025
 collection: projects
-tags:
-- Circular Economy
+categories:
 - Research
-- Modelling
-- Modelling - Agent-Based Models
-- Project DYNAMO
-- Index Pages
+- Circular Economy
+tags:
+- Modelling/ABMs
+- Projects/DYNAMO
+- Index
 ---
 Main project page: [DYNAMO](https://jmkorhonen.github.io/projects/DYNAMO/)
 

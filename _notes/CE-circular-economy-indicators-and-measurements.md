@@ -4,7 +4,7 @@ date: 2025-11-28 Fri 11:36
 permalink: /notes/CE-circular-economy-indicators-and-measurements/
 perma_id: id202511281136
 redirect_from:
-  - /id202511281136
+  - /id202511281136/
 aliases:
   - id202511281136
 author: Janne M. Korhonen
@@ -19,7 +19,7 @@ tags:
   - Circular Economy
   - Statistics
 published: true
-last_update: 2025-11-28 Fri 12:08
+last_update: 2025-12-12 Fri 13:22
 modified:
 ---
 
