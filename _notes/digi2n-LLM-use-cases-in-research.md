@@ -15,9 +15,13 @@ author_profile: false
 toc: true
 categories:
   - Notes
+  - Research
 tags:
+  - AI
+  - LLMs
+  - Projects/DYNAMO/Digi2n
 published: false
-last_update: 2025-12-12 Fri 13:22
+last_update: 2025-12-12 Fri 13:46
 modified:
 ---
 ### Researchers measured greenwashing in 1 million Facebook ads by LLM-enabled system, found vast networks sharing pro-fossil fuel messages and targeted ads

@@ -28,7 +28,7 @@ tags:
   - LLMs
   - AI
 published: false
-last_update: 2025-12-12 Fri 13:38
+last_update: 2025-12-15 Mon 17:33
 modified:
 ---
 Version: 2025-12-12
@@ -41,13 +41,13 @@ Version: 2025-12-12
 
 ### Design goals
 
-In Mesa, you want three things at once:
+In Mesa, we want three things at once:
 
 - A **core ABM engine** that stays stable.
 - Plug-in **domain modules** (textiles, electronics, plastics, etc.).
-- Optional **SD** and **LLM/GABM** layers that you can swap or ignore per project.
+- Optional **SD** and **LLM** ("G" in GABM) layers that you can swap or ignore per project.
 
-So the guiding principle: **separation of concerns** + **config-driven composition**.
+The guiding principle should be **separation of concerns** + **config-driven composition**.
 
 Below is a sketch of the package structure and the responsibilities of each layer.
 
@@ -55,7 +55,7 @@ Below is a sketch of the package structure and the responsibilities of each laye
 
 A Python package along these lines:
 
-- `dynamo_ce/`
+- `dynamo_gabm/`
     - `core/` – Mesa abstractions and orchestration
     - `domains/` – textiles, electronics, plastics, etc.
     - `behaviour/` – decision rules, utility functions, learning modules
@@ -67,7 +67,6 @@ A Python package along these lines:
     - `experiments/` – batch runners, sensitivity analysis
 
 Everything ABM-related lives inside `core` + `domains` + `behaviour`; SD and LLM are separate services plugged into the Mesa model.
-
 ## Core: Mesa model + agent infrastructure
 
 ### `core/model_base.py`
@@ -114,22 +113,41 @@ This way, behavioural logic never hard-codes into agents. Decision modules can b
 
 ## Domain modules: CE sectors as plug-ins
 
-### `domains/textiles/`
-
-Contains:
-
-- `agents.py` – `TextileConsumer`, `TextileFirm`, maybe `TextileSortingFacility`.
-- `sd_structure.py` – textile-specific stocks/flows: in-use clothing, wardrobe stock, second-hand channels, textile waste, recycling capacity.
-- `mapping.py` – mapping from simulation variables to EEIO sectors.
-
-Similarly for `domains/electronics`, `domains/plastics`, `domains/construction`, etc.
-
 Each domain module should:
 
 - implement a small **registration function** that tells `CEMarketModel` what agents and stocks to create given a scenario config;
 - register its **behavioural rule types** (e.g. “repair-inclined cluster rules”) and which agent classes they apply to.
 
 The core model then instantiates domains based on configuration, not hard-coded imports.
+
+Each domain module contains:
+
+- `agents.py` – such as `[domain]Consumer`, `[domain]Firm`, `[domain]SortingFacility`.
+- `sd_structure.py` – domain-specific stocks/flows: in-use, stock, second-hand channels, waste, recycling capacity, etc.
+- `eeio_mapping.py` – mapping from simulation variables to EEIO sectors.
+
+### `domains/electronics/`
+
+Contains:
+
+- `agents.py` – `ElectronicsConsumer`, `ElectronicsFirm`, `ElectronicsRepairFirm`.
+- `sd_structure.py` – electronics-specific stocks/flows: in-use, stock, second-hand channels, e-waste, recycling capacity.
+- `eeio_mapping.py` – mapping from simulation variables to EEIO sectors.
+
+### `domains/plastics/`
+
+TBD
+### `domains/construction/`
+
+TBD
+
+### `domains/textiles/`
+
+Contains:
+
+- `agents.py` – `TextileConsumer`, `TextileFirm`, maybe `TextileSortingFacility`.
+- `sd_structure.py` – textile-specific stocks/flows: in-use clothing, wardrobe stock, second-hand channels, textile waste, recycling capacity.
+- `eeio_mapping.py` – mapping from simulation variables to EEIO sectors.
 
 ## Behaviour layer: decision rules as swappable components
 
@@ -151,15 +169,14 @@ Agents then hold a reference to one or more decision-rule objects and call them 
 
 ### `behaviour/clusters.py`
 
-Cluster-specific parameter bundles:
+This is where the generative LLM layer can inject richer decision-making rules or priors, but the **execution** remains numerical and controlled.
 
-- Cluster definitions (from Finnish surveys).
+Contains cluster-specific parameter bundles:
+
+- Cluster definitions (from surveys and interviews fed to an LLM).
 - Default parameter ranges per cluster (WTP slopes, norm sensitivity, etc.).
 - Mapping from cluster ID → specific decision-rule configuration.
-
-This is where the generative LLM layer can inject richer descriptions or priors, but the **execution** remains numerical and controlled.
-
-## SD layer: stock–flow backbone
+## SD layer: stock–flow bookkeeping backbone
 
 ### `sd/system_base.py`
 
@@ -173,12 +190,12 @@ A generic interface for SD systems, without committing to any external SD librar
 
 Domain-specific SD structures:
 
-- `textiles_sd.py` – wardrobe stock, waste streams, recycling capacity ramp-up, etc.
 - `electronics_sd.py` – device stock, obsolescence rates, refurb capacity.
+- `textiles_sd.py` – wardrobe stock, waste streams, recycling capacity ramp-up, etc.
 
 Each can be plugged into `CEMarketModel` via the service registry. The Mesa model does not care how the SD system is implemented internally as long as the interface is consistent.
 
-## LLM / GABM layer: auxiliary inference, not runtime chaos
+## LLM (GABM) layer: decision rule generation
 
 ### `llm/interface.py`
 
@@ -262,7 +279,7 @@ Batch runner that:
 - runs multiple seeds;
 - writes out both **ABM+SD outputs** and ready-for-EEIO aggregates.
 
-## Summary in one breath
+## Summary
 
 Architecturally, we want:
 

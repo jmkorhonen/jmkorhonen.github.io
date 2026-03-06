@@ -4,7 +4,7 @@ date: {{date:YYYY-MM-DD ddd HH:mm}}
 permalink: /talks/{{title}}
 perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- /id{{date:YYYYMMDDHHmm}}
+- /id{{date:YYYYMMDDHHmm}}/
 aliases:
 - id{{date:YYYYMMDDHHmm}}
 venue: UC San Francisco, Department of Testing

@@ -4,7 +4,7 @@ date: {{date:YYYY-MM-DD ddd HH:mm}}
 permalink: /posts/{{date:YYYY}}/{{title}}/
 perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- /id{{date:YYYYMMDDHHmm}}
+- /id{{date:YYYYMMDDHHmm}}/
 aliases:
 - id{{date:YYYYMMDDHHmm}}
 author: Janne M. Korhonen

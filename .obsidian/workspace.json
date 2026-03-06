@@ -22,62 +22,6 @@
             }
           },
           {
-            "id": "3439d58903fb5f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis"
-            }
-          },
-          {
-            "id": "b55bce28940d33cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/digi2n-GABM-SD-EEIO-use-cases-and-examples.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "digi2n-GABM-SD-EEIO-use-cases-and-examples"
-            }
-          },
-          {
-            "id": "7ff99baad8867fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/digi2n-GABM-SD-EEIO-architectural-design-Python-MESA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "digi2n-GABM-SD-EEIO-architectural-design-Python-MESA"
-            }
-          },
-          {
-            "id": "70e321457af07c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/digi2n-GABM-SD-EEIO-use-cases-and-examples.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "digi2n-GABM-SD-EEIO-use-cases-and-examples"
-            }
-          },
-          {
             "id": "ea57bba70d51ea25",
             "type": "leaf",
             "state": {
@@ -90,9 +34,37 @@
               "icon": "lucide-file",
               "title": "DYNAMO"
             }
+          },
+          {
+            "id": "777fbd80d28bf36e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/theory-design-as-problem-solving.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "theory-design-as-problem-solving"
+            }
+          },
+          {
+            "id": "57e78b3fdb366664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/digi2n-GABM-Claude_Opus_example_analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "digi2n-GABM-Claude_Opus_example_analysis"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,17 +185,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/digi2n-GABM-SD-EEIO-use-cases-and-examples.md",
+                "file": "_pages/projects/DYNAMO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of digi2n-GABM-SD-EEIO-use-cases-and-examples"
+              "title": "Outline of DYNAMO"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -241,36 +213,38 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "70e321457af07c16",
+  "active": "57e78b3fdb366664",
   "lastOpenFiles": [
+    "_notes/theory-design-as-problem-solving.md",
+    "_notes/digi2n-GABM-Claude_Opus_example_analysis.md",
+    "_notes/theory-descriptive-theories-of-change.md",
+    "_posts/2010/2010-11-19-the-ten-commandments-for-publishing-in-a-list-journals-by-janne-tienari.md",
     "_notes/digi2n-GABM-SD-EEIO-architectural-design-Python-MESA.md",
-    "_notes/digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis.md",
     "_notes/digi2n-GABM-SD-EEIO-use-cases-and-examples.md",
+    "_notes/digi2n-GABM-SD-EEIO-framework-for-CE-market-analysis.md",
     "_pages/projects/DYNAMO.md",
+    "_notes/digi2n-GABM-MVP-demo-structure-2025-12-15.md",
+    "_posts/2010/2010-11-22-explaining-the-evolution-of-technologies-firms-and-industries-some-notes-on-my-phd-thesis-methodology.md",
+    "files/presentations/2010-10-29-Explaining-the-evolution-of-technologies-firms-and-industries.pdf",
+    "_talks/2013-03-01-tutorial-1.md",
+    "assets/templates/Log_template.md",
+    "assets/templates/Log-old_template.md",
+    "assets/templates/Notes_template.md",
+    "assets/templates/Page_template.md",
+    "assets/templates/Paper_template.md",
+    "assets/templates/Portfolio_template.md",
+    "assets/templates/Talks_template.md",
+    "assets/templates/Post_template.md",
+    "_posts/2010",
+    "_notes/digi2n-LLM-use-cases-in-research.md",
     "_log/2025/2025-12-11.md",
     "_pages/projects/DYNAMO/DYNAMO-index.md",
     "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
     "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
     "_notes/risk-classifying-commons-natural-disasters-existential.md",
-    "_notes/digi2n-LLM-use-cases-in-research.md",
     "_notes/CE-circular-economy-indicators-and-measurements.md",
-    "assets/templates/Notes_template.md",
-    "_posts/2020/2020-06-29-a-very-short-and-fairly-understandable-introduction-to-models.md",
-    "_pages/projects/MapEditor.md",
-    "_pages/projects/DYNAMO/ODD2020-protocol-2025-09-11.md",
-    "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summaries-2025-11-03.md",
-    "_pages/projects/DYNAMO/DYNAMO-literature-review-LLM-summarizing-instructions-2025-09-17.md",
-    "_log/2025/2025-11-26.md",
-    "_log/2025/2025-11-20.md",
-    "_posts/2020/2020-01-09-What-if-we-really-tried-to-save-our-civilization.md",
-    "_posts/2017/2017-12-15-necessity-is-the-mother-of-inventors.md",
-    "_posts/2013/2013-05-20-what-the-necessity-mothers-energy-shortage-and-the-development-of-copper-smelting-furnaces-1900-1980.md",
     "images/GABM-SD-EEIO_framework_2025-12-08_Slide5_conceptualizing_GABM.PNG",
     "images/GABM-SD-EEIO_framework_2025-12-08_Slide11_The_Coupling_Workflow.PNG",
-    "_pages/log.md",
-    "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
-    "_log/2025/2025-11-28.md",
-    "assets/templates/Post_template.md",
     "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-Will-Stancil.jpg",
     "images/2025-12-01-Franklin-the-turtle-learns-about-Laws-of-Armed-Conflict-Shashank-Joshi.jpg",
     "images/2025-12-01-Franklin-the-turtle-learns-about-the-Peleus-Trial.jpg",
@@ -286,8 +260,6 @@
     "WIP",
     "_posts/2023",
     "_includes/license.html",
-    "images/Untitled",
-    "_posts/2013/Untitled",
-    "_posts/2013"
+    "images/Untitled"
   ]
 }

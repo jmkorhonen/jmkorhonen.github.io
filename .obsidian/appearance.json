@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Solarized"
+  "cssTheme": "Solarized",
+  "baseFontSizeAction": true,
+  "baseFontSize": 13
 }

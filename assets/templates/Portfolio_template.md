@@ -5,7 +5,7 @@ excerpt: Short description of portfolio item number 1<br/><img src='/images/500x
 permalink: /portfolio/{{title}}/
 perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- /id{{date:YYYYMMDDHHmm}}
+- /id{{date:YYYYMMDDHHmm}}/
 aliases:
 - id{{date:YYYYMMDDHHmm}}
 collection: portfolio

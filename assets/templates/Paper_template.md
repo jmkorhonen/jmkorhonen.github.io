@@ -8,7 +8,7 @@ categories:
 permalink: /publication/{{title}}
 perma_id: "id{{date:YYYYMMDDHHmm}}"
 redirect_from:
-- /id{{date:YYYYMMDDHHmm}}
+- /id{{date:YYYYMMDDHHmm}}/
 aliases:
 - id{{date:YYYYMMDDHHmm}}
 venue: Journal 1

@@ -17,7 +17,7 @@ categories:
 - Research
 tags:
 - Scarcities
-- Innovation
+- Innovations
 - History of Technology
 - Creativity
 ---
