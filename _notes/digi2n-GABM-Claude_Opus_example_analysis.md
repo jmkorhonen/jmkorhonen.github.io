@@ -1,5 +1,5 @@
 ---
-title: "Example of "
+title: "Example of research dialogue with Claude Opus"
 date: 2026-03-06 Fri 17:50
 permalink: /notes/digi2n-GABM-Claude_Opus_example_analysis/
 perma_id: id202603061750
