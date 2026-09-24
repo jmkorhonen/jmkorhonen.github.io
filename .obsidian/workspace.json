@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+                "file": "_pages/projects/Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-24_kill_all_humans_and_then_what"
+              "title": "Models"
             }
           }
         ]
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+                "file": "_pages/projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,14 +277,17 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7bd35dbd7e1cc945",
+  "active": "cb246737d83f0f5d",
   "lastOpenFiles": [
+    "_pages/projects/Models.md",
     "_pages/projects.md",
+    "models/kill_all_humans/index.html",
+    "models/kill_all_humans",
+    "models",
     "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
     "_pages/projects/Models/kill_all_humans/index.html",
     "_pages/index.md",
     "_posts/2026",
-    "_pages/projects/Models.md",
     "_pages/notes.md",
     "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
     "_pages/projects/MapEditor.md",
@@ -320,9 +323,6 @@
     "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-(Will-Stancil).jpg",
     "images/2025-12-01-Franklin-the-turtle-goes-to-the-Hague.jpg",
     "images/2025-12-01 Franklin the turtle learns about Laws of Armed Conflict (Shashank Joshi).jpg",
-    "_log/2024",
-    "_log/2022",
-    "_log/2025",
-    "WIP/Unpublished pages.base"
+    "_log/2024"
   ]
 }
