@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/models.md",
+                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,10 +277,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "cb246737d83f0f5d",
+  "active": "7bd35dbd7e1cc945",
   "lastOpenFiles": [
-    "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
     "_pages/models.md",
+    "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
     "_pages/projects.md",
     "backups",
     "models/kill_all_humans/index.html",
