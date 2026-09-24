@@ -55,16 +55,78 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/digi2n-GABM-Claude_Opus_example_analysis.md",
+                "file": "_posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "digi2n-GABM-Claude_Opus_example_analysis"
+              "title": "2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal"
+            }
+          },
+          {
+            "id": "e64e71566b3a1b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/Excel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excel"
+            }
+          },
+          {
+            "id": "6dcfdc3eaac17e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "cb246737d83f0f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "projects"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
+      },
+      {
+        "id": "acbb94ec77013fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd35dbd7e1cc945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-24_kill_all_humans_and_then_what"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +146,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -137,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_log/2022-05-19-bitcoin-tether-beanstalk.md",
+                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2022-05-19-bitcoin-tether-beanstalk"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/templates/Page_template.md",
+                "file": "_posts/2013/2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Page_template"
+              "title": "Outgoing links from 2013-11-18-space-system-shuttle-part-of-usas-nuclear-attack-arsenal"
             }
           },
           {
@@ -213,9 +277,25 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "57e78b3fdb366664",
+  "active": "7bd35dbd7e1cc945",
   "lastOpenFiles": [
+    "_pages/projects.md",
+    "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+    "_pages/projects/Models/kill_all_humans/index.html",
+    "_pages/index.md",
+    "_posts/2026",
+    "_pages/projects/Models.md",
+    "_pages/notes.md",
+    "_posts/2025/2025-10-30-why-sustainable-civilizations-must-be-democratic.md",
+    "_pages/projects/MapEditor.md",
+    "_pages/Excel.md",
+    "_pages/markdown.md",
+    "_pages/projects/Models/kill_all_humans",
+    "_pages/projects/Models",
+    "images/1986_soviet_civil_defence__booklet_weapons_of_USA_space_shuttle.webp",
     "_notes/theory-design-as-problem-solving.md",
+    "_posts/2019/2019-05-13-technology-in-a-post-growth-world-lessons-from-the-1970s-at-movement.md",
+    "_posts/2019/2019-11-15-book-review-mcafee-more-from-less.md",
     "_notes/digi2n-GABM-Claude_Opus_example_analysis.md",
     "_notes/theory-descriptive-theories-of-change.md",
     "_posts/2010/2010-11-19-the-ten-commandments-for-publishing-in-a-list-journals-by-janne-tienari.md",
@@ -230,19 +310,7 @@
     "assets/templates/Log_template.md",
     "assets/templates/Log-old_template.md",
     "assets/templates/Notes_template.md",
-    "assets/templates/Page_template.md",
-    "assets/templates/Paper_template.md",
-    "assets/templates/Portfolio_template.md",
-    "assets/templates/Talks_template.md",
-    "assets/templates/Post_template.md",
     "_posts/2010",
-    "_notes/digi2n-LLM-use-cases-in-research.md",
-    "_log/2025/2025-12-11.md",
-    "_pages/projects/DYNAMO/DYNAMO-index.md",
-    "_notes/digi2n-examples-of-llms-as-synthetic-human-responders-and-agents.md",
-    "_notes/summary-horton-2023-large-language-models-as-simulated-economic-agents.md",
-    "_notes/risk-classifying-commons-natural-disasters-existential.md",
-    "_notes/CE-circular-economy-indicators-and-measurements.md",
     "images/GABM-SD-EEIO_framework_2025-12-08_Slide5_conceptualizing_GABM.PNG",
     "images/GABM-SD-EEIO_framework_2025-12-08_Slide11_The_Coupling_Workflow.PNG",
     "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-Will-Stancil.jpg",
@@ -252,14 +320,9 @@
     "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-(Will-Stancil).jpg",
     "images/2025-12-01-Franklin-the-turtle-goes-to-the-Hague.jpg",
     "images/2025-12-01 Franklin the turtle learns about Laws of Armed Conflict (Shashank Joshi).jpg",
-    "images/2025-12-01 Franklin the turtle is prosecuted for War Crimes and Murder on the High Seas (Will Stancil).jpg",
     "_log/2024",
     "_log/2022",
     "_log/2025",
-    "WIP/Unpublished pages.base",
-    "WIP",
-    "_posts/2023",
-    "_includes/license.html",
-    "images/Untitled"
+    "WIP/Unpublished pages.base"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: "Example of research dialogue with Claude Opus"
+title: Example of research dialogue with Claude Opus
 date: 2026-03-06 Fri 17:50
 permalink: /notes/digi2n-GABM-Claude_Opus_example_analysis/
 perma_id: id202603061750
@@ -19,7 +19,7 @@ tags:
   - LLM
   - AI
 published: true
-last_update: 2026-03-06 Fri 18:06
+last_update: 2026-03-06 Fri 18:07
 modified:
 ---
 *This is a part of a longer conversation between me and Claude Opus 4.6 Extended; we're working on a method/conceptual paper draft discussing how to use LLMs to simulate human decision-makers in agent-based models meant to analyse circular economy markets. My inputs are in italics and in* 

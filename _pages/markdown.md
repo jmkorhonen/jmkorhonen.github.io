@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 published: false
-last_update: 2025-11-13 10:44
+last_update: 2026-09-24 Thu 14:56
 date: 2025-11-13 09:34
 ---
 
