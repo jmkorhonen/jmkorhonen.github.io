@@ -16,7 +16,7 @@ modified:
 
 [DYNAMO (Dynamic Modelling of Circular Economy)](https://jmkorhonen.github.io/projects/DYNAMO/). Developing agent-based and other modelling tools to model Circular Economy transitions and analyse markets. [Finnish Environment Institute (Syke)](https://www.syke.fi/en), 2025-2028.
 
-## [Models](pages/projects/Models)
+## [models](models.md)
 
 ### [KILL ALL HUMANS...and then what? Artificial intelligences remain dependent on human civilisation for their own survival](/id202609241512/)
 

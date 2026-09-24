@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "_pages/models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "projects"
+              "title": "models"
             }
           }
         ],
@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/projects/Models.md",
+                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Models"
+              "title": "2026-09-24_kill_all_humans_and_then_what"
             }
           }
         ]
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "_pages/models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,15 +277,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ea76ccc622be1b15",
+  "active": "cb246737d83f0f5d",
   "lastOpenFiles": [
-    "backups",
-    "_pages/projects/Models.md",
+    "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+    "_pages/models.md",
     "_pages/projects.md",
+    "backups",
     "models/kill_all_humans/index.html",
     "models/kill_all_humans",
     "models",
-    "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
     "_pages/projects/Models/kill_all_humans/index.html",
     "_pages/index.md",
     "_posts/2026",
@@ -323,7 +323,6 @@
     "images/2025-12-01-Franklin-the-turtle-learns-about-Laws-of-Armed-Conflict-(Shashank-Joshi).jpg",
     "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-(Will-Stancil).jpg",
     "images/2025-12-01-Franklin-the-turtle-goes-to-the-Hague.jpg",
-    "images/2025-12-01 Franklin the turtle learns about Laws of Armed Conflict (Shashank Joshi).jpg",
-    "_log/2024"
+    "images/2025-12-01 Franklin the turtle learns about Laws of Armed Conflict (Shashank Joshi).jpg"
   ]
 }

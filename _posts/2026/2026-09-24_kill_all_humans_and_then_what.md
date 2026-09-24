@@ -21,7 +21,7 @@ tags:
   - Future
   - Regulation
 published: true
-last_update: 2026-09-24 Thu 15:31
+last_update: 2026-09-24 Thu 15:47
 modified:
 ---
 
@@ -33,7 +33,7 @@ modified:
 30 ??? 
 ```
 
-[Hop to the model](https://jmkorhonen.github.io/projects/kill_all_humans)
+[Hop to the model](https://jmkorhonen.github.io/models/kill_all_humans)
 
 ## Readme
 
