@@ -21,7 +21,7 @@ tags:
   - Future
   - Regulation
 published: true
-last_update: 2026-09-24 Thu 15:16
+last_update: 2026-09-24 Thu 15:24
 modified:
 ---
 
