@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+                "file": "_pages/projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-24_kill_all_humans_and_then_what"
+              "title": "projects"
             }
           }
         ]
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+                "file": "_pages/projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,8 +279,8 @@
   },
   "active": "7bd35dbd7e1cc945",
   "lastOpenFiles": [
-    "_pages/models.md",
     "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+    "_pages/models.md",
     "_pages/projects.md",
     "backups",
     "models/kill_all_humans/index.html",
