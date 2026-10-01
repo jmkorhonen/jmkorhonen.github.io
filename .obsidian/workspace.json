@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/models.md",
+                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "models"
+              "title": "2026-09-24_kill_all_humans_and_then_what"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/projects.md",
+                "file": "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,8 +280,10 @@
   "active": "7bd35dbd7e1cc945",
   "lastOpenFiles": [
     "_posts/2026/2026-09-24_kill_all_humans_and_then_what.md",
+    "files/publications/jannesguide_prototype_2026-10-01.pdf",
     "_pages/models.md",
     "_pages/projects.md",
+    "id202609241512.md",
     "backups",
     "models/kill_all_humans/index.html",
     "models/kill_all_humans",
@@ -313,8 +315,6 @@
     "_talks/2013-03-01-tutorial-1.md",
     "assets/templates/Log_template.md",
     "assets/templates/Log-old_template.md",
-    "assets/templates/Notes_template.md",
-    "_posts/2010",
     "images/GABM-SD-EEIO_framework_2025-12-08_Slide5_conceptualizing_GABM.PNG",
     "images/GABM-SD-EEIO_framework_2025-12-08_Slide11_The_Coupling_Workflow.PNG",
     "images/2025-12-01-Franklin-the-turtle-is-prosecuted-for-War-Crimes-and-Murder-on-the-High-Seas-Will-Stancil.jpg",
