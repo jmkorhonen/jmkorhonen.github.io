@@ -7,7 +7,7 @@ toc: true
 collection: projects
 permalink: /projects/
 published: true
-last_update: 2026-09-24 Thu 16:38
+last_update: 2026-10-06 Tue 16:21
 modified:
 ---
 ## Work and research
